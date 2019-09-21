@@ -52,6 +52,7 @@ I tried to put papers in each category in convenient to read order.
 * [STAMP Short-Term AttentionMemory Priority Model for Sessionbased Recommendation](https://github.com/ishugaepov/papers/blob/master/Session%20based%20Recommendations/STAMP%20Short-Term%20AttentionMemory%20Priority%20Model%20for%20Sessionbased%20Recommendation.pdf)
 * [Session-Based Recommendation with Graph Neural Networks](https://github.com/ishugaepov/papers/blob/master/Session%20based%20Recommendations/Session-Based%20Recommendation%20with%20Graph%20Neural%20Networks.pdf)
 * [Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding](https://github.com/ishugaepov/papers/blob/master/Session%20based%20Recommendations/Personalized%20Top-N%20Sequential%20Recommendation%20via%20Convolutional%20Sequence%20Embedding%202.pdf)
+* [Learning from History and Present- Next-item Recommendation via Discriminatively Exploiting User Behaviors](https://github.com/ishugaepov/papers/blob/master/Session%20based%20Recommendations/Learning%20from%20History%20and%20Present-%20Next-item%20Recommendation%20via%20Discriminatively%20Exploiting%20User%20Behaviors%202.pdf)
 
 ## Matrix Factorization
 * [Collaborative Filtering for Implicit Feedback Datasets](https://github.com/ishugaepov/papers/blob/master/MF/Collaborative%20Filtering%20for%20Implicit%20Feedback%20Datasets.pdf)
