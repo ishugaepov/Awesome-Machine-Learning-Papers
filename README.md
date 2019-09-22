@@ -26,6 +26,7 @@ I tried to put papers in each category in convenient to read order.
 * [A Survey on Transfer Learning](https://github.com/ishugaepov/papers/blob/master/CTR%20CVR%20prediction/A%20Survey%20on%20Transfer%20Learning.pdf)
 
 ## Embeddings
+* [Item2Vec](https://github.com/ishugaepov/papers/blob/master/Embeddings/Item2Vec.pdf)
 * [Neural Feature Embedding for User Response Prediction in Real-Time Bidding](https://github.com/ishugaepov/papers/blob/master/Embeddings/Neural%20Feature%20Embedding%20for%20User%20Response%20Prediction%20in%20Real-Time%20Bidding.pdf)
 * [Search Retargeting using Directed Query Embeddings](https://github.com/ishugaepov/papers/blob/master/Embeddings/Search%20Retargeting%20using%20Directed%20Query%20Embeddings.pdf)
 * [Real-time Personalization using Embeddings for Search Ranking at Airbnb](https://github.com/ishugaepov/papers/blob/master/Embeddings/%5BAirbnb%20Embedding%5D%20Real-time%20Personalization%20using%20Embeddings%20for%20Search%20Ranking%20at%20Airbnb%20(Airbnb%202018).pdf)
