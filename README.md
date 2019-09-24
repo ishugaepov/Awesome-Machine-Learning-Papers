@@ -60,6 +60,7 @@ I tried to put papers in each category in convenient to read order.
 * [Fast Matrix Factorization for Online Recommendation with Implicit Feedback](https://github.com/ishugaepov/papers/blob/master/MF/Fast%20Matrix%20Factorization%20for%20Online%20Recommendation%20with%20Implicit%20Feedback.pdf)
 * [Incremental Learning for Matrix Factorization in Recommender Systems](https://github.com/ishugaepov/papers/blob/master/MF/Incremental%20Learning%20for%20Matrix%20Factorization%20in%20Recommender%20Systems.pdf)
 * [Deep Content-based Music Recommendation, 2013](https://github.com/ishugaepov/papers/blob/master/Embeddings/deep-content-based-music-recommendation.pdf)
+* [Neural Collaborative Filtering, 2017](https://github.com/ishugaepov/papers/blob/master/MF/Neural%20Collaborative%20Filtering.pdf)
 
 ## Other
 * [AutoCross- Automatic Feature Crossing for Tabular Data in Real-World Applications](https://github.com/ishugaepov/papers/blob/master/Other/AutoCross-%20Automatic%20Feature%20Crossing%20for%20Tabular%20Data%20in%20Real-World%20Applications%202.pdf)
