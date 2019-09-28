@@ -33,6 +33,7 @@ I tried to put papers in each category in convenient to read order.
 * [Real-time Personalization using Embeddings for Search Ranking at Airbnb](https://github.com/ishugaepov/papers/blob/master/Embeddings/%5BAirbnb%20Embedding%5D%20Real-time%20Personalization%20using%20Embeddings%20for%20Search%20Ranking%20at%20Airbnb%20(Airbnb%202018).pdf)
 * [DeepWalk](https://github.com/ishugaepov/papers/blob/master/Embeddings/DeepWalk.pdf)
 * [node2vec](https://github.com/ishugaepov/papers/blob/master/Embeddings/node2vec-kdd16.pdf)
+* [entity2rec- Learning User-Item Relatedness from Knowledge Graphs for Top-N Item Recommendation, 2018](https://github.com/ishugaepov/papers/blob/master/Embeddings/entity2rec-%20Learning%20User-Item%20Relatedness%20from%20Knowledge%20Graphs%20for%20Top-N%20Item%20Recommendation.pdf)
 * [PTE Predictive Text Embedding through Large-scale Heterogeneous Text Networks](https://github.com/ishugaepov/papers/blob/master/Embeddings/PTE%20Predictive%20Text%20Embedding%20through%20Large-scale%20Heterogeneous%20Text%20Networks.pdf)
 * [Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba](https://github.com/ishugaepov/papers/blob/master/Embeddings/%5BAlibaba%20Embedding%5D%20Billion-scale%20Commodity%20Embedding%20for%20E-commerce%20Recommendation%20in%20Alibaba%20(Alibaba%202018).pdf)
 * [Personolized Entity Recommendation: A Heterogeneous Information Network Approach](https://github.com/ishugaepov/papers/blob/master/Embeddings/RecSysAHeterogeneousInformationNetworkApproach.pdf)
