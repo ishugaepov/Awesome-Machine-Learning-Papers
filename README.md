@@ -63,6 +63,7 @@ I tried to put papers in each category in convenient to read order.
 * [Collaborative Filtering for Implicit Feedback Datasets](https://github.com/ishugaepov/papers/blob/master/MF/Collaborative%20Filtering%20for%20Implicit%20Feedback%20Datasets.pdf)
 * [Fast Matrix Factorization for Online Recommendation with Implicit Feedback](https://github.com/ishugaepov/papers/blob/master/MF/Fast%20Matrix%20Factorization%20for%20Online%20Recommendation%20with%20Implicit%20Feedback.pdf)
 * [Incremental Learning for Matrix Factorization in Recommender Systems](https://github.com/ishugaepov/papers/blob/master/MF/Incremental%20Learning%20for%20Matrix%20Factorization%20in%20Recommender%20Systems.pdf)
+* [Factorization Meets the Item Embedding- Regularizing Matrix Factorization with Item Co-occurrence, 2016](https://github.com/ishugaepov/papers/blob/master/MF/Factorization%20Meets%20the%20Item%20Embedding-%20Regularizing%20Matrix%20Factorization%20with%20Item%20Co-occurrence.pdf)
 * [Deep Content-based Music Recommendation, 2013](https://github.com/ishugaepov/papers/blob/master/Embeddings/deep-content-based-music-recommendation.pdf)
 * [Neural Collaborative Filtering, 2017](https://github.com/ishugaepov/papers/blob/master/MF/Neural%20Collaborative%20Filtering.pdf)
 
