@@ -74,6 +74,7 @@ I tried to put papers in each category in convenient to read order.
 * [Joint Deep Modeling of Users and Items Using Reviews for Recommendation, 2017](https://github.com/ishugaepov/papers/blob/master/MF/Joint%20Deep%20Modeling%20of%20Users%20and%20Items%20Using%20Reviews%20for%20Recommendation.pdf)
 * [Neural Collaborative Filtering, 2017](https://github.com/ishugaepov/papers/blob/master/MF/Neural%20Collaborative%20Filtering.pdf)
 * [Collaborative Knowledge Base Embedding for Recommender Systems, 2016](https://github.com/ishugaepov/papers/blob/master/MF/Collaborative%20Knowledge%20Base%20Embedding%20for%20Recommender%20Systems.pdf)
+* [Joint Representation Learning for Top N Recommendation with Heterogeneous Information Sources, 2017](https://github.com/ishugaepov/papers/blob/master/MF/Joint%20Representation%20Learning%20for%20Top%20N%20Recommendation%20with%20Heterogeneous%20Information%20Sources.pdf)
 
 ## Other
 * [AutoCross- Automatic Feature Crossing for Tabular Data in Real-World Applications](https://github.com/ishugaepov/papers/blob/master/Other/AutoCross-%20Automatic%20Feature%20Crossing%20for%20Tabular%20Data%20in%20Real-World%20Applications%202.pdf)
