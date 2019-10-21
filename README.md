@@ -43,7 +43,8 @@ I tried to put papers in each category in convenient to read order.
 * [Are Meta-Paths Necessary?](https://github.com/ishugaepov/papers/blob/master/Embeddings/Are%20Meta-Paths%20Necessary%3F.pdf)
 * [Is a Single Vector Enough? Exploring Node Polysemy for Network Embedding](https://github.com/ishugaepov/papers/blob/master/Embeddings/Is%20a%20Single%20Vector%20Enough%3F%20Exploring%20Node%20Polysemy%20for%20Network%20Embedding.pdf)
 * [dynnode2vec Scalable Dynamic Network Embedding](https://github.com/ishugaepov/papers/blob/master/Embeddings/dynnode2vec%20Scalable%20Dynamic%20Network%20Embedding.pdf)
-* [Meta-Graph Based Recommendation Fusion over Heterogeneous Information Networks](https://github.com/ishugaepov/papers/blob/master/Embeddings/Meta-Graph%20Based%20Recommendation%20Fusion%20over%20Heterogeneous%20Information%20Networks.pdf)
+* [Meta-Graph Based Recommendation Fusion over Heterogeneous Information Networks, 2017](https://github.com/ishugaepov/papers/blob/master/Embeddings/Meta-Graph%20Based%20Recommendation%20Fusion%20over%20Heterogeneous%20Information%20Networks.pdf)
+* [Heterogeneous Neural Attentive Factorization Machine for Rating Prediction, 2018](https://github.com/ishugaepov/papers/blob/master/Embeddings/Heterogeneous%20Neural%20Attentive%20Factorization%20Machine%20for%20Rating%20Prediction.pdf)
 
 ## Session-based Recommendations
 * [Amazon-Recommendations](https://github.com/ishugaepov/papers/blob/master/Session%20based%20Recommendations/Amazon-Recommendations.pdf)
