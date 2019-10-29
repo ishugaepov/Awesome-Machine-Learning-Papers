@@ -63,7 +63,7 @@ I tried to put papers in each category in convenient to read order.
 * [Learning from History and Present- Next-item Recommendation via Discriminatively Exploiting User Behaviors](https://github.com/ishugaepov/papers/blob/master/Session%20based%20Recommendations/Learning%20from%20History%20and%20Present-%20Next-item%20Recommendation%20via%20Discriminatively%20Exploiting%20User%20Behaviors%202.pdf)
 * [Performance Comparison of Neural and Non-Neural Approaches to Session-based Recommendation, 2019](https://github.com/ishugaepov/papers/blob/master/Session%20based%20Recommendations/Performance%20Comparison%20of%20Neural%20and%20Non-Neural%20Approaches%20to%20Session-based%20Recommendation.pdf)
 
-## Collaborative Filtering
+## Recommendations
 * [Collaborative Filtering for Implicit Feedback Datasets](https://github.com/ishugaepov/papers/blob/master/MF/Collaborative%20Filtering%20for%20Implicit%20Feedback%20Datasets.pdf)
 * [Probabilistic Matrix Factorization, 2008](https://github.com/ishugaepov/papers/blob/master/MF/Probabilistic%20Matrix%20Factorization.pdf)
 * [Fast Matrix Factorization for Online Recommendation with Implicit Feedback](https://github.com/ishugaepov/papers/blob/master/MF/Fast%20Matrix%20Factorization%20for%20Online%20Recommendation%20with%20Implicit%20Feedback.pdf)
@@ -82,6 +82,7 @@ I tried to put papers in each category in convenient to read order.
 * [Deep Matrix Factorization Models for Recommender Systems, 2017](https://github.com/ishugaepov/papers/blob/master/MF/Deep%20Matrix%20Factorization%20Models%20for%20Recommender%20Systems.pdf)
 * [Collaborative Knowledge Base Embedding for Recommender Systems, 2016](https://github.com/ishugaepov/papers/blob/master/MF/Collaborative%20Knowledge%20Base%20Embedding%20for%20Recommender%20Systems.pdf)
 * [Joint Representation Learning for Top N Recommendation with Heterogeneous Information Sources, 2017](https://github.com/ishugaepov/papers/blob/master/MF/Joint%20Representation%20Learning%20for%20Top%20N%20Recommendation%20with%20Heterogeneous%20Information%20Sources.pdf)
+* [Deep Neural Networks for YouTube Recommendations, 2016](https://github.com/ishugaepov/papers/blob/master/MF/Deep%20Neural%20Networks%20for%20YouTube%20Recommendations.pdf)
 
 ## Other
 * [AutoCross- Automatic Feature Crossing for Tabular Data in Real-World Applications](https://github.com/ishugaepov/papers/blob/master/Other/AutoCross-%20Automatic%20Feature%20Crossing%20for%20Tabular%20Data%20in%20Real-World%20Applications%202.pdf)
