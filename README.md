@@ -13,6 +13,7 @@ I tried to put papers in each category in convenient to read order.
 * [DeepFM](https://github.com/ishugaepov/papers/blob/master/CTR%20CVR%20prediction/DeepFM.pdf)
 * [Deep Embedding Forest- Forest-based Serving with Deep Embedding Features](https://github.com/ishugaepov/papers/blob/master/CTR%20CVR%20prediction/Deep%20Embedding%20Forest-%20Forest-based%20Serving%20with%20Deep%20Embedding%20Features.pdf)
 * [Deep Interest Network for Click-Through Rate Prediction](https://github.com/ishugaepov/papers/blob/master/CTR%20CVR%20prediction/Deep%20Interest%20Network%20for%20Click-Through%20Rate%20Prediction.pdf)
+* [Improving Native Ads CTR Prediction by Large Scale Event Embedding and Recurrent Networks, 2018](https://github.com/ishugaepov/papers/blob/master/CTR%20CVR%20prediction/Improving%20Native%20Ads%20CTR%20Prediction%20by%20Large%20Scale%20Event%20Embedding%20and%20Recurrent%20Networks.pdf)
 * [Deep Interest Evolution Network for Click-Through Rate Prediction](https://github.com/ishugaepov/papers/blob/master/CTR%20CVR%20prediction/%5BDIEN%5D%20Deep%20Interest%20Evolution%20Network%20for%20Click-Through%20Rate%20Prediction%20(Alibaba%202019).pdf)
 * [DeepGBM, 2019](https://github.com/ishugaepov/papers/blob/master/CTR%20CVR%20prediction/DeepGBM.pdf)
 * [Model Ensemble for Click Prediction in Bing Search Ads](https://github.com/ishugaepov/papers/blob/master/CTR%20CVR%20prediction/Model%20Ensemble%20for%20Click%20Prediction%20in%20Bing%20Search%20Ads.pdf)
