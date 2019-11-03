@@ -46,6 +46,7 @@ I tried to put papers in each category in convenient to read order.
 * [dynnode2vec Scalable Dynamic Network Embedding](https://github.com/ishugaepov/papers/blob/master/Embeddings/dynnode2vec%20Scalable%20Dynamic%20Network%20Embedding.pdf)
 * [Meta-Graph Based Recommendation Fusion over Heterogeneous Information Networks, 2017](https://github.com/ishugaepov/papers/blob/master/Embeddings/Meta-Graph%20Based%20Recommendation%20Fusion%20over%20Heterogeneous%20Information%20Networks.pdf)
 * [Heterogeneous Neural Attentive Factorization Machine for Rating Prediction, 2018](https://github.com/ishugaepov/papers/blob/master/Embeddings/Heterogeneous%20Neural%20Attentive%20Factorization%20Machine%20for%20Rating%20Prediction.pdf)
+* [Should we Embed?, 2019](https://github.com/ishugaepov/papers/blob/master/Embeddings/Should%20we%20Embed%3F.pdf)
 
 ## Session-based Recommendations
 * [Amazon-Recommendations](https://github.com/ishugaepov/papers/blob/master/Session%20based%20Recommendations/Amazon-Recommendations.pdf)
