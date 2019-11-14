@@ -88,6 +88,7 @@ I tried to put papers in each category in convenient to read order.
 * [Collaborative Knowledge Base Embedding for Recommender Systems, 2016](https://github.com/ishugaepov/papers/blob/master/MF/Collaborative%20Knowledge%20Base%20Embedding%20for%20Recommender%20Systems.pdf)
 * [Joint Representation Learning for Top N Recommendation with Heterogeneous Information Sources, 2017](https://github.com/ishugaepov/papers/blob/master/MF/Joint%20Representation%20Learning%20for%20Top%20N%20Recommendation%20with%20Heterogeneous%20Information%20Sources.pdf)
 * [Deep Neural Networks for YouTube Recommendations, 2016](https://github.com/ishugaepov/papers/blob/master/MF/Deep%20Neural%20Networks%20for%20YouTube%20Recommendations.pdf)
+* [TEM- Tree-enhanced Embedding Model for Explainable Recommendation, 2018](https://github.com/ishugaepov/papers/blob/master/MF/TEM-%20Tree-enhanced%20Embedding%20Model%20for%20Explainable%20Recommendation.pdf)
 
 ## Other
 * [AutoCross- Automatic Feature Crossing for Tabular Data in Real-World Applications](https://github.com/ishugaepov/papers/blob/master/Other/AutoCross-%20Automatic%20Feature%20Crossing%20for%20Tabular%20Data%20in%20Real-World%20Applications%202.pdf)
