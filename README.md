@@ -90,6 +90,10 @@ I tried to put papers in each category in convenient to read order.
 * [Deep Neural Networks for YouTube Recommendations, 2016](https://github.com/ishugaepov/papers/blob/master/MF/Deep%20Neural%20Networks%20for%20YouTube%20Recommendations.pdf)
 * [TEM- Tree-enhanced Embedding Model for Explainable Recommendation, 2018](https://github.com/ishugaepov/papers/blob/master/MF/TEM-%20Tree-enhanced%20Embedding%20Model%20for%20Explainable%20Recommendation.pdf)
 
+## A/B Tests
+* [Applying the Delta Method in Metric Analytics- A Practical Guide with Novel Ideas, 2018](https://github.com/ishugaepov/papers/blob/master/A:B%20Tests/Applying%20the%20Delta%20Method%20in%20Metric%20Analytics-%20A%20Practical%20Guide%20with%20Novel%20Ideas.pdf), [Notes](https://github.com/ishugaepov/papers/blob/master/A:B%20Tests/Delta%20Method%20Notes.pdf)
+* [Consistent Transformation of Ratio Metrics for Efficient Online Controlled Experiments, 2018](https://github.com/ishugaepov/papers/blob/master/A:B%20Tests/Consistent%20Transformation%20of%20Ratio%20Metrics%20for%20Efficient%20Online%20Controlled%20Experiments.pdf)
+
 ## Other
 * [AutoCross- Automatic Feature Crossing for Tabular Data in Real-World Applications](https://github.com/ishugaepov/papers/blob/master/Other/AutoCross-%20Automatic%20Feature%20Crossing%20for%20Tabular%20Data%20in%20Real-World%20Applications%202.pdf)
 * [Saliency Detection A Spectral Residual Approach](https://github.com/ishugaepov/papers/blob/master/Other/Saliency%20Detection%20A%20Spectral%20Residual%20Approach.pdf)
