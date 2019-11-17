@@ -91,6 +91,7 @@ I tried to put papers in each category in convenient to read order.
 * [TEM- Tree-enhanced Embedding Model for Explainable Recommendation, 2018](https://github.com/ishugaepov/papers/blob/master/MF/TEM-%20Tree-enhanced%20Embedding%20Model%20for%20Explainable%20Recommendation.pdf)
 
 ## A/B Tests
+* [Practical Aspects of Sensitivity in Online Experimentation with User Engagement Metrics, 2015](https://github.com/ishugaepov/papers/blob/master/A:B%20Tests/Practical%20Aspects%20of%20Sensitivity%20in%20Online%20Experimentation%20with%20User%20Engagement%20Metrics.pdf)
 * [Applying the Delta Method in Metric Analytics- A Practical Guide with Novel Ideas, 2018](https://github.com/ishugaepov/papers/blob/master/A:B%20Tests/Applying%20the%20Delta%20Method%20in%20Metric%20Analytics-%20A%20Practical%20Guide%20with%20Novel%20Ideas.pdf), [Notes](https://github.com/ishugaepov/papers/blob/master/A:B%20Tests/Delta%20Method%20Notes.pdf)
 * [Consistent Transformation of Ratio Metrics for Efficient Online Controlled Experiments, 2018](https://github.com/ishugaepov/papers/blob/master/A:B%20Tests/Consistent%20Transformation%20of%20Ratio%20Metrics%20for%20Efficient%20Online%20Controlled%20Experiments.pdf)
 
