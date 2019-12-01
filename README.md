@@ -99,6 +99,7 @@ I tried to put papers in each category in convenient to read order.
 * [Applying the Delta Method in Metric Analytics- A Practical Guide with Novel Ideas, 2018](https://github.com/ishugaepov/papers/blob/master/A:B%20Tests/Applying%20the%20Delta%20Method%20in%20Metric%20Analytics-%20A%20Practical%20Guide%20with%20Novel%20Ideas.pdf), [Notes](https://github.com/ishugaepov/papers/blob/master/A:B%20Tests/Delta%20Method%20Notes.pdf)
 * [Consistent Transformation of Ratio Metrics for Efficient Online Controlled Experiments, 2018](https://github.com/ishugaepov/papers/blob/master/A:B%20Tests/Consistent%20Transformation%20of%20Ratio%20Metrics%20for%20Efficient%20Online%20Controlled%20Experiments.pdf)
 * [Machine Learning Methods for Estimating Heterogeneous Causal Effects, 2015](https://github.com/ishugaepov/papers/blob/master/A:B%20Tests/Machine%20Learning%20Methods%20for%20Estimating%20Heterogeneous%20Causal%20Effects.pdf)
+* [Recursive partitioning for heterogeneous causal effects, 2016](https://github.com/ishugaepov/papers/blob/master/A:B%20Tests/Recursive%20partitioning%20for%20heterogeneous%20causal%20effects.pdf)
 
 ## Other
 * [AutoCross- Automatic Feature Crossing for Tabular Data in Real-World Applications](https://github.com/ishugaepov/papers/blob/master/Other/AutoCross-%20Automatic%20Feature%20Crossing%20for%20Tabular%20Data%20in%20Real-World%20Applications%202.pdf)
