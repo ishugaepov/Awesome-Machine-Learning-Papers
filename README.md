@@ -89,6 +89,7 @@ I tried to put papers in each category in convenient to read order.
 * [Joint Representation Learning for Top N Recommendation with Heterogeneous Information Sources, 2017](https://github.com/ishugaepov/papers/blob/master/MF/Joint%20Representation%20Learning%20for%20Top%20N%20Recommendation%20with%20Heterogeneous%20Information%20Sources.pdf)
 * [Deep Neural Networks for YouTube Recommendations, 2016](https://github.com/ishugaepov/papers/blob/master/MF/Deep%20Neural%20Networks%20for%20YouTube%20Recommendations.pdf)
 * [TEM- Tree-enhanced Embedding Model for Explainable Recommendation, 2018](https://github.com/ishugaepov/papers/blob/master/MF/TEM-%20Tree-enhanced%20Embedding%20Model%20for%20Explainable%20Recommendation.pdf)
+* [DKN- Deep Knowledge-Aware Network for News Recommendation, 2018](https://github.com/ishugaepov/papers/blob/master/MF/DKN-%20Deep%20Knowledge-Aware%20Network%20for%20News%20Recommendation.pdf)
 
 ## A/B Tests
 * [Power and Minumal Detectable Effect Notes](https://github.com/ishugaepov/papers/blob/master/A:B%20Tests/Power%20and%20MDE%20Notes.pdf)
