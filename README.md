@@ -108,3 +108,4 @@ I tried to put papers in each category in convenient to read order.
 * [AutoCross- Automatic Feature Crossing for Tabular Data in Real-World Applications](https://github.com/ishugaepov/papers/blob/master/Other/AutoCross-%20Automatic%20Feature%20Crossing%20for%20Tabular%20Data%20in%20Real-World%20Applications%202.pdf)
 * [Saliency Detection A Spectral Residual Approach](https://github.com/ishugaepov/papers/blob/master/Other/Saliency%20Detection%20A%20Spectral%20Residual%20Approach.pdf)
 * [Time-Series Anomaly Detection Service at Microsoft](https://github.com/ishugaepov/papers/blob/master/Other/Time-Series%20Anomaly%20Detection%20Service%20at%20Microsoft.pdf)
+* [Attention Is All You Need, 2017](https://github.com/ishugaepov/papers/blob/master/Other/Attention%20Is%20All%20You%20Need.pdf)
