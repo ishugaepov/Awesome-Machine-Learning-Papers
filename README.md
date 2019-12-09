@@ -95,6 +95,7 @@ I tried to put papers in each category in convenient to read order.
 ## A/B Tests
 * [Power and Minumal Detectable Effect Notes](https://github.com/ishugaepov/papers/blob/master/A:B%20Tests/Power%20and%20MDE%20Notes.pdf)
 * [Controlled experiments on the web- survey and practical guide, 2009](https://github.com/ishugaepov/papers/blob/master/A:B%20Tests/Controlled%20experiments%20on%20the%20web-%20survey%20and%20practical%20guide.pdf)
+* [Overlapping Experiment Infrastructure- More, Better, Faster Experimentation, 2010](https://github.com/ishugaepov/papers/blob/master/A:B%20Tests/Overlapping%20Experiment%20Infrastructure-%20More%2C%20Better%2C%20Faster%20Experimentation.pdf)
 * [Online Controlled Experiments at Large Scale, 2013](https://github.com/ishugaepov/papers/blob/master/A:B%20Tests/Online%20Controlled%20Experiments%20at%20Large%20Scale.pdf)
 * [Improving the Sensitivity of Online Controlled Experiments by Utilizing Pre-Experiment Data, 2013](https://github.com/ishugaepov/papers/blob/master/A:B%20Tests/Improving%20the%20Sensitivity%20of%20Online%20Controlled%20Experiments%20by%20Utilizing%20Pre-Experiment%20Data.pdf)
 * [Practical Aspects of Sensitivity in Online Experimentation with User Engagement Metrics, 2015](https://github.com/ishugaepov/papers/blob/master/A:B%20Tests/Practical%20Aspects%20of%20Sensitivity%20in%20Online%20Experimentation%20with%20User%20Engagement%20Metrics.pdf)
