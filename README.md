@@ -31,6 +31,7 @@ I tried to put papers in each category in convenient to read order.
 * [Warm Up Cold-start Advertisements- Improving CTR Predictions via Learning to Learn ID Embeddings, 2019](https://github.com/ishugaepov/papers/blob/master/CTR%20CVR%20prediction/Warm%20Up%20Cold-start%20Advertisements-%20Improving%20CTR%20Predictions%20via%20Learning%20to%20Learn%20ID%20Embeddings.pdf)
 
 ## Embeddings
+* [Translating Embeddings for Modeling Multi-relational Data, 2013](https://github.com/ishugaepov/papers/blob/master/Embeddings/Translating%20Embeddings%20for%20Modeling%20Multi-relational%20Data.pdf)
 * [Item2Vec](https://github.com/ishugaepov/papers/blob/master/Embeddings/Item2Vec.pdf)
 * [Neural Feature Embedding for User Response Prediction in Real-Time Bidding](https://github.com/ishugaepov/papers/blob/master/Embeddings/Neural%20Feature%20Embedding%20for%20User%20Response%20Prediction%20in%20Real-Time%20Bidding.pdf)
 * [Search Retargeting using Directed Query Embeddings](https://github.com/ishugaepov/papers/blob/master/Embeddings/Search%20Retargeting%20using%20Directed%20Query%20Embeddings.pdf)
