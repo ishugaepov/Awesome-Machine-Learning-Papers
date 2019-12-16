@@ -33,6 +33,7 @@ I tried to put papers in each category in convenient to read order.
 
 ## Embeddings
 * [Translating Embeddings for Modeling Multi-relational Data, 2013](https://github.com/ishugaepov/papers/blob/master/Embeddings/Translating%20Embeddings%20for%20Modeling%20Multi-relational%20Data.pdf)
+* [Knowledge graph embedding by translating on hyperplanes, 2014](https://github.com/ishugaepov/papers/blob/master/Embeddings/Knowledge%20Graph%20Embedding%20by%20Translating%20on%20Hyperplanes.pdf)
 * [Item2Vec](https://github.com/ishugaepov/papers/blob/master/Embeddings/Item2Vec.pdf)
 * [Neural Feature Embedding for User Response Prediction in Real-Time Bidding](https://github.com/ishugaepov/papers/blob/master/Embeddings/Neural%20Feature%20Embedding%20for%20User%20Response%20Prediction%20in%20Real-Time%20Bidding.pdf)
 * [Search Retargeting using Directed Query Embeddings](https://github.com/ishugaepov/papers/blob/master/Embeddings/Search%20Retargeting%20using%20Directed%20Query%20Embeddings.pdf)
