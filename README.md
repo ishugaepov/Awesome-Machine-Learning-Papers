@@ -54,6 +54,7 @@ I tried to put papers in each category in convenient to read order.
 * [Meta-Graph Based Recommendation Fusion over Heterogeneous Information Networks, 2017](https://github.com/ishugaepov/papers/blob/master/Embeddings/Meta-Graph%20Based%20Recommendation%20Fusion%20over%20Heterogeneous%20Information%20Networks.pdf)
 * [Heterogeneous Neural Attentive Factorization Machine for Rating Prediction, 2018](https://github.com/ishugaepov/papers/blob/master/Embeddings/Heterogeneous%20Neural%20Attentive%20Factorization%20Machine%20for%20Rating%20Prediction.pdf)
 * [Should we Embed?, 2019](https://github.com/ishugaepov/papers/blob/master/Embeddings/Should%20we%20Embed%3F.pdf)
+* [Beyond Vector Spaces- Compact Data Representation as Differentiable Weighted Graphs, 2019](https://github.com/ishugaepov/papers/blob/master/Embeddings/Beyond%20Vector%20Spaces-%20Compact%20Data%20Representation%20as%20Differentiable%20Weighted%20Graphs.pdf)
 
 ## Session-based Recommendations
 * [Amazon-Recommendations](https://github.com/ishugaepov/papers/blob/master/Session%20based%20Recommendations/Amazon-Recommendations.pdf)
