@@ -118,3 +118,4 @@ I tried to put papers in each category in convenient to read order.
 * [Saliency Detection A Spectral Residual Approach](https://github.com/ishugaepov/papers/blob/master/Other/Saliency%20Detection%20A%20Spectral%20Residual%20Approach.pdf)
 * [Time-Series Anomaly Detection Service at Microsoft](https://github.com/ishugaepov/papers/blob/master/Other/Time-Series%20Anomaly%20Detection%20Service%20at%20Microsoft.pdf)
 * [Attention Is All You Need, 2017](https://github.com/ishugaepov/papers/blob/master/Other/Attention%20Is%20All%20You%20Need.pdf)
+* [MonoForest framework for tree ensemble analysis, 2019](https://github.com/ishugaepov/papers/blob/master/Other/MonoForest%20framework%20for%20tree%20ensemble%20analysis.pdf)
