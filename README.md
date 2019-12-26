@@ -113,6 +113,9 @@ I tried to put papers in each category in convenient to read order.
 * [Recursive partitioning for heterogeneous causal effects, 2016](https://github.com/ishugaepov/papers/blob/master/A:B%20Tests/Recursive%20partitioning%20for%20heterogeneous%20causal%20effects.pdf)
 * [Meta-learners for Estimating Heterogeneous Treatment Effects using Machine Learning, 2019](https://github.com/ishugaepov/papers/blob/master/A:B%20Tests/Meta-learners%20for%20Estimating%20Heterogeneous%20Treatment%20Effects%20using%20Machine%20Learning%202.pdf)
 
+## Ranking
+* [Personalization of Web-search Using Short-term Browsing Context, 2013](https://github.com/ishugaepov/papers/blob/master/Ranking/Personalization%20of%20Web-search%20Using%20Short-term%20Browsing%20Context.pdf)
+
 ## Other
 * [AutoCross- Automatic Feature Crossing for Tabular Data in Real-World Applications](https://github.com/ishugaepov/papers/blob/master/Other/AutoCross-%20Automatic%20Feature%20Crossing%20for%20Tabular%20Data%20in%20Real-World%20Applications%202.pdf)
 * [Saliency Detection A Spectral Residual Approach](https://github.com/ishugaepov/papers/blob/master/Other/Saliency%20Detection%20A%20Spectral%20Residual%20Approach.pdf)
