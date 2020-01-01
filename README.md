@@ -55,6 +55,7 @@ I tried to put papers in each category in convenient to read order.
 * [Heterogeneous Neural Attentive Factorization Machine for Rating Prediction, 2018](https://github.com/ishugaepov/papers/blob/master/Embeddings/Heterogeneous%20Neural%20Attentive%20Factorization%20Machine%20for%20Rating%20Prediction.pdf)
 * [Should we Embed?, 2019](https://github.com/ishugaepov/papers/blob/master/Embeddings/Should%20we%20Embed%3F.pdf)
 * [Beyond Vector Spaces- Compact Data Representation as Differentiable Weighted Graphs, 2019](https://github.com/ishugaepov/papers/blob/master/Embeddings/Beyond%20Vector%20Spaces-%20Compact%20Data%20Representation%20as%20Differentiable%20Weighted%20Graphs.pdf)
+* [A Comprehensive Survey on Graph Neural Networks, 2019](https://github.com/ishugaepov/papers/blob/master/Embeddings/A%20Comprehensive%20Survey%20on%20Graph%20Neural%20Networks.pdf)
 
 ## Session-based Recommendations
 * [Amazon-Recommendations](https://github.com/ishugaepov/papers/blob/master/Session%20based%20Recommendations/Amazon-Recommendations.pdf)
