@@ -99,6 +99,7 @@ I tried to put papers in each category in convenient to read order.
 * [TEM- Tree-enhanced Embedding Model for Explainable Recommendation, 2018](https://github.com/ishugaepov/papers/blob/master/MF/TEM-%20Tree-enhanced%20Embedding%20Model%20for%20Explainable%20Recommendation.pdf)
 * [MF/ATRank- An Attention-Based User Behavior Modeling Framework for Recommendation, 2017](https://github.com/ishugaepov/papers/blob/master/MF/ATRank-%20An%20Attention-Based%20User%20Behavior%20Modeling%20Framework%20for%20Recommendation.pdf)
 * [DKN- Deep Knowledge-Aware Network for News Recommendation, 2018](https://github.com/ishugaepov/papers/blob/master/MF/DKN-%20Deep%20Knowledge-Aware%20Network%20for%20News%20Recommendation.pdf)
+* [Graph Convolutional Matrix Completion, 2018](https://github.com/ishugaepov/papers/blob/master/MF/Graph%20Convolutional%20Matrix%20Completion.pdf)
 
 ## A/B Tests
 * [Power and Minumal Detectable Effect Notes](https://github.com/ishugaepov/papers/blob/master/A:B%20Tests/Power%20and%20MDE%20Notes.pdf)
