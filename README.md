@@ -127,3 +127,4 @@ I tried to put papers in each category in convenient to read order.
 * [Attention Is All You Need, 2017](https://github.com/ishugaepov/papers/blob/master/Other/Attention%20Is%20All%20You%20Need.pdf)
 * [MonoForest framework for tree ensemble analysis, 2019](https://github.com/ishugaepov/papers/blob/master/Other/MonoForest%20framework%20for%20tree%20ensemble%20analysis.pdf)
 * [Intent-Based Browse Activity Segmentation, 2013](https://github.com/ishugaepov/papers/blob/master/Other/Intent-Based%20Browse%20Activity%20Segmentation.pdf)
+* [Robust De-anonymization of Large Sparse Datasets, 2008](https://github.com/ishugaepov/papers/blob/master/Other/Robust%20De-anonymization%20of%20Large%20Sparse%20Datasets.pdf)
