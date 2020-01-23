@@ -41,6 +41,7 @@ I tried to put papers in each category in convenient to read order.
 * [Scalable Semantic Matching of Queries to Ads in Sponsored Search Advertising, 2016](https://github.com/ishugaepov/papers/blob/master/Embeddings/Scalable%20Semantic%20Matching%20of%20Queries%20to%20Ads%20in%20Sponsored%20Search%20Advertising.pdf)
 * [Real-time Personalization using Embeddings for Search Ranking at Airbnb](https://github.com/ishugaepov/papers/blob/master/Embeddings/%5BAirbnb%20Embedding%5D%20Real-time%20Personalization%20using%20Embeddings%20for%20Search%20Ranking%20at%20Airbnb%20(Airbnb%202018).pdf)
 * [DeepWalk](https://github.com/ishugaepov/papers/blob/master/Embeddings/DeepWalk.pdf)
+* [LINE- Large-scale Information Network Embedding, 2015](https://github.com/ishugaepov/papers/blob/master/Embeddings/LINE-%20Large-scale%20Information%20Network%20Embedding.pdf)
 * [node2vec](https://github.com/ishugaepov/papers/blob/master/Embeddings/node2vec-kdd16.pdf)
 * [entity2rec- Learning User-Item Relatedness from Knowledge Graphs for Top-N Item Recommendation, 2018](https://github.com/ishugaepov/papers/blob/master/Embeddings/entity2rec-%20Learning%20User-Item%20Relatedness%20from%20Knowledge%20Graphs%20for%20Top-N%20Item%20Recommendation.pdf)
 * [PTE Predictive Text Embedding through Large-scale Heterogeneous Text Networks](https://github.com/ishugaepov/papers/blob/master/Embeddings/PTE%20Predictive%20Text%20Embedding%20through%20Large-scale%20Heterogeneous%20Text%20Networks.pdf)
