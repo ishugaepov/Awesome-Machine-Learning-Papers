@@ -58,6 +58,7 @@ I tried to put papers in each category in convenient to read order.
 * [Beyond Vector Spaces- Compact Data Representation as Differentiable Weighted Graphs, 2019](https://github.com/ishugaepov/papers/blob/master/Embeddings/Beyond%20Vector%20Spaces-%20Compact%20Data%20Representation%20as%20Differentiable%20Weighted%20Graphs.pdf)
 * [A Comprehensive Survey on Graph Neural Networks, 2019](https://github.com/ishugaepov/papers/blob/master/Embeddings/A%20Comprehensive%20Survey%20on%20Graph%20Neural%20Networks.pdf)
 * [Graph Convolutional Neural Networks for Web-Scale Recommender Systems, 2018](https://github.com/ishugaepov/papers/blob/master/Embeddings/Graph%20Convolutional%20Neural%20Networks%20for%20Web-Scale%20Recommender%20Systems.pdf)
+* [Keep It Simple- Graph Autoencoders Without Graph Convolutional Networks, 2019](https://github.com/ishugaepov/papers/blob/master/Embeddings/Keep%20It%20Simple-%20Graph%20Autoencoders%20Without%20Graph%20Convolutional%20Networks.pdf)
 
 ## Session-based Recommendations
 * [Amazon-Recommendations](https://github.com/ishugaepov/papers/blob/master/Session%20based%20Recommendations/Amazon-Recommendations.pdf)
