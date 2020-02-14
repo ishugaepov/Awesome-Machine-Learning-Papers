@@ -34,6 +34,7 @@ I tried to put papers in each category in convenient to read order.
 
 ## Embeddings
 * [Exploiting Similarities among Languages for Machine Translation, 2013](https://arxiv.org/pdf/1309.4168.pdf)
+* [Word translation without parallel data, 2017](https://github.com/ishugaepov/papers/blob/master/Embeddings/Word%20translation%20without%20parallel%20data.pdf)
 * [Translating Embeddings for Modeling Multi-relational Data, 2013](https://github.com/ishugaepov/papers/blob/master/Embeddings/Translating%20Embeddings%20for%20Modeling%20Multi-relational%20Data.pdf)
 * [Knowledge graph embedding by translating on hyperplanes, 2014](https://github.com/ishugaepov/papers/blob/master/Embeddings/Knowledge%20Graph%20Embedding%20by%20Translating%20on%20Hyperplanes.pdf)
 * [Item2Vec](https://github.com/ishugaepov/papers/blob/master/Embeddings/Item2Vec.pdf)
