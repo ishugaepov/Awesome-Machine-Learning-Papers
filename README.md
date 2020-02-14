@@ -33,6 +33,7 @@ I tried to put papers in each category in convenient to read order.
 * [RippleNet- Propagating User Preferences on the Knowledge Graph for Recommender Systems, 2018](https://github.com/ishugaepov/papers/blob/master/CTR%20CVR%20prediction/RippleNet-%20Propagating%20User%20Preferences%20on%20the%20Knowledge%20Graph%20for%20Recommender%20Systems%202.pdf)
 
 ## Embeddings
+* [Exploiting Similarities among Languages for Machine Translation, 2013](https://arxiv.org/pdf/1309.4168.pdf)
 * [Translating Embeddings for Modeling Multi-relational Data, 2013](https://github.com/ishugaepov/papers/blob/master/Embeddings/Translating%20Embeddings%20for%20Modeling%20Multi-relational%20Data.pdf)
 * [Knowledge graph embedding by translating on hyperplanes, 2014](https://github.com/ishugaepov/papers/blob/master/Embeddings/Knowledge%20Graph%20Embedding%20by%20Translating%20on%20Hyperplanes.pdf)
 * [Item2Vec](https://github.com/ishugaepov/papers/blob/master/Embeddings/Item2Vec.pdf)
