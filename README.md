@@ -4,6 +4,9 @@ In order to see my remarks and notes download pdf file instead of viewing it on 
 I tried to put papers in each category in convenient to read order.
 
 ## CTR/CVR prediction
+<details>
+  <summary>Papers</summary>
+  
 * [Field-aware Factorization Machines for CTR Prediction](https://github.com/ishugaepov/papers/blob/master/CTR%20CVR%20prediction/%5BFFM%5D%20Field-aware%20Factorization%20Machines%20for%20CTR%20Prediction%20(Criteo%202016).pdf)
 * [FFM in a Real-world Online Advertising System](https://github.com/ishugaepov/papers/blob/master/CTR%20CVR%20prediction/FFM%20in%20a%20Real-world%20Online%20Advertising%20System%202.pdf)
 * [Attentional Factorization Machines - Learning the Weight of Feature Interactions via Attention Networks](https://github.com/ishugaepov/papers/blob/master/CTR%20CVR%20prediction/%5BAFM%5D%20Attentional%20Factorization%20Machines%20-%20Learning%20the%20Weight%20of%20Feature%20Interactions%20via%20Attention%20Networks%20(ZJU%202017).pdf)
@@ -31,8 +34,13 @@ I tried to put papers in each category in convenient to read order.
 * [Warm Up Cold-start Advertisements- Improving CTR Predictions via Learning to Learn ID Embeddings, 2019](https://github.com/ishugaepov/papers/blob/master/CTR%20CVR%20prediction/Warm%20Up%20Cold-start%20Advertisements-%20Improving%20CTR%20Predictions%20via%20Learning%20to%20Learn%20ID%20Embeddings.pdf)
 * [AiAds- Automated and Intelligent Advertising System for Sponsored Search, 2019](https://github.com/ishugaepov/papers/blob/master/CTR%20CVR%20prediction/AiAds-%20Automated%20and%20Intelligent%20Advertising%20System%20for%20Sponsored%20Search.pdf)
 * [RippleNet- Propagating User Preferences on the Knowledge Graph for Recommender Systems, 2018](https://github.com/ishugaepov/papers/blob/master/CTR%20CVR%20prediction/RippleNet-%20Propagating%20User%20Preferences%20on%20the%20Knowledge%20Graph%20for%20Recommender%20Systems%202.pdf)
+  
+</details>
 
 ## Embeddings
+<details>
+  <summary>Papers</summary>
+  
 * [Exploiting Similarities among Languages for Machine Translation, 2013](https://arxiv.org/pdf/1309.4168.pdf)
 * [Word translation without parallel data, 2017](https://github.com/ishugaepov/papers/blob/master/Embeddings/Word%20translation%20without%20parallel%20data.pdf)
 * [Translating Embeddings for Modeling Multi-relational Data, 2013](https://github.com/ishugaepov/papers/blob/master/Embeddings/Translating%20Embeddings%20for%20Modeling%20Multi-relational%20Data.pdf)
@@ -62,7 +70,12 @@ I tried to put papers in each category in convenient to read order.
 * [Graph Convolutional Neural Networks for Web-Scale Recommender Systems, 2018](https://github.com/ishugaepov/papers/blob/master/Embeddings/Graph%20Convolutional%20Neural%20Networks%20for%20Web-Scale%20Recommender%20Systems.pdf)
 * [Keep It Simple- Graph Autoencoders Without Graph Convolutional Networks, 2019](https://github.com/ishugaepov/papers/blob/master/Embeddings/Keep%20It%20Simple-%20Graph%20Autoencoders%20Without%20Graph%20Convolutional%20Networks.pdf)
 
+</details>
+
 ## Session-based Recommendations
+<details>
+  <summary>Papers</summary>
+  
 * [Amazon-Recommendations](https://github.com/ishugaepov/papers/blob/master/Session%20based%20Recommendations/Amazon-Recommendations.pdf)
 * [The YouTube Video Recommendation System](https://github.com/ishugaepov/papers/blob/master/Session%20based%20Recommendations/The%20YouTube%20Video%20Recommendation%20System.pdf)
 * [E-commerce in Your Inbox- Product Recommendations at Scale](https://github.com/ishugaepov/papers/blob/master/Session%20based%20Recommendations/E-commerce%20in%20Your%20Inbox-%20Product%20Recommendations%20at%20Scale.pdf)
@@ -79,7 +92,12 @@ I tried to put papers in each category in convenient to read order.
 * [Performance Comparison of Neural and Non-Neural Approaches to Session-based Recommendation, 2019](https://github.com/ishugaepov/papers/blob/master/Session%20based%20Recommendations/Performance%20Comparison%20of%20Neural%20and%20Non-Neural%20Approaches%20to%20Session-based%20Recommendation.pdf)
 * [Predictability Limits in Session-based Next Item Recommendation, 2019](https://github.com/ishugaepov/papers/blob/master/Session%20based%20Recommendations/Predictability%20Limits%20in%20Session-based%20Next%20Item%20Recommendation.pdf)
 
+</details>
+
 ## Recommendations
+<details>
+  <summary>Papers</summary>
+  
 * [Collaborative Filtering for Implicit Feedback Datasets](https://github.com/ishugaepov/papers/blob/master/MF/Collaborative%20Filtering%20for%20Implicit%20Feedback%20Datasets.pdf)
 * [Probabilistic Matrix Factorization, 2008](https://github.com/ishugaepov/papers/blob/master/MF/Probabilistic%20Matrix%20Factorization.pdf)
 * [Fast Matrix Factorization for Online Recommendation with Implicit Feedback](https://github.com/ishugaepov/papers/blob/master/MF/Fast%20Matrix%20Factorization%20for%20Online%20Recommendation%20with%20Implicit%20Feedback.pdf)
@@ -105,7 +123,12 @@ I tried to put papers in each category in convenient to read order.
 * [DKN- Deep Knowledge-Aware Network for News Recommendation, 2018](https://github.com/ishugaepov/papers/blob/master/MF/DKN-%20Deep%20Knowledge-Aware%20Network%20for%20News%20Recommendation.pdf)
 * [Graph Convolutional Matrix Completion, 2018](https://github.com/ishugaepov/papers/blob/master/MF/Graph%20Convolutional%20Matrix%20Completion.pdf)
 
+</details>
+
 ## A/B Tests
+<details>
+  <summary>Papers</summary>
+  
 * [Power and Minumal Detectable Effect Notes](https://github.com/ishugaepov/papers/blob/master/A:B%20Tests/Power%20and%20MDE%20Notes.pdf)
 * [Controlled experiments on the web- survey and practical guide, 2009](https://github.com/ishugaepov/papers/blob/master/A:B%20Tests/Controlled%20experiments%20on%20the%20web-%20survey%20and%20practical%20guide.pdf)
 * [Overlapping Experiment Infrastructure- More, Better, Faster Experimentation, 2010](https://github.com/ishugaepov/papers/blob/master/A:B%20Tests/Overlapping%20Experiment%20Infrastructure-%20More%2C%20Better%2C%20Faster%20Experimentation.pdf)
@@ -121,10 +144,20 @@ I tried to put papers in each category in convenient to read order.
 * [Recursive partitioning for heterogeneous causal effects, 2016](https://github.com/ishugaepov/papers/blob/master/A:B%20Tests/Recursive%20partitioning%20for%20heterogeneous%20causal%20effects.pdf)
 * [Meta-learners for Estimating Heterogeneous Treatment Effects using Machine Learning, 2019](https://github.com/ishugaepov/papers/blob/master/A:B%20Tests/Meta-learners%20for%20Estimating%20Heterogeneous%20Treatment%20Effects%20using%20Machine%20Learning%202.pdf)
 
+</details>
+
 ## Ranking
+<details>
+  <summary>Papers</summary>
+  
 * [Personalization of Web-search Using Short-term Browsing Context, 2013](https://github.com/ishugaepov/papers/blob/master/Ranking/Personalization%20of%20Web-search%20Using%20Short-term%20Browsing%20Context.pdf)
 
+</details>
+
 ## Other
+<details>
+  <summary>Papers</summary>
+  
 * [AutoCross- Automatic Feature Crossing for Tabular Data in Real-World Applications](https://github.com/ishugaepov/papers/blob/master/Other/AutoCross-%20Automatic%20Feature%20Crossing%20for%20Tabular%20Data%20in%20Real-World%20Applications%202.pdf)
 * [Saliency Detection A Spectral Residual Approach](https://github.com/ishugaepov/papers/blob/master/Other/Saliency%20Detection%20A%20Spectral%20Residual%20Approach.pdf)
 * [Time-Series Anomaly Detection Service at Microsoft](https://github.com/ishugaepov/papers/blob/master/Other/Time-Series%20Anomaly%20Detection%20Service%20at%20Microsoft.pdf)
@@ -132,3 +165,5 @@ I tried to put papers in each category in convenient to read order.
 * [MonoForest framework for tree ensemble analysis, 2019](https://github.com/ishugaepov/papers/blob/master/Other/MonoForest%20framework%20for%20tree%20ensemble%20analysis.pdf)
 * [Intent-Based Browse Activity Segmentation, 2013](https://github.com/ishugaepov/papers/blob/master/Other/Intent-Based%20Browse%20Activity%20Segmentation.pdf)
 * [Robust De-anonymization of Large Sparse Datasets, 2008](https://github.com/ishugaepov/papers/blob/master/Other/Robust%20De-anonymization%20of%20Large%20Sparse%20Datasets.pdf)
+
+</details>
