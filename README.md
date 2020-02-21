@@ -91,6 +91,7 @@ I tried to put papers in each category in convenient to read order.
 * [Learning from History and Present- Next-item Recommendation via Discriminatively Exploiting User Behaviors](https://github.com/ishugaepov/papers/blob/master/Session%20based%20Recommendations/Learning%20from%20History%20and%20Present-%20Next-item%20Recommendation%20via%20Discriminatively%20Exploiting%20User%20Behaviors%202.pdf)
 * [Performance Comparison of Neural and Non-Neural Approaches to Session-based Recommendation, 2019](https://github.com/ishugaepov/papers/blob/master/Session%20based%20Recommendations/Performance%20Comparison%20of%20Neural%20and%20Non-Neural%20Approaches%20to%20Session-based%20Recommendation.pdf)
 * [Predictability Limits in Session-based Next Item Recommendation, 2019](https://github.com/ishugaepov/papers/blob/master/Session%20based%20Recommendations/Predictability%20Limits%20in%20Session-based%20Next%20Item%20Recommendation.pdf)
+* [BERT4Rec- Sequential Recommendation with Bidirectional Encoder Representations from Transformer, 2019](https://github.com/ishugaepov/papers/blob/master/Session%20based%20Recommendations/BERT4Rec-%20Sequential%20Recommendation%20with%20Bidirectional%20Encoder%20Representations%20from%20Transformer.pdf)
 
 </details>
 
