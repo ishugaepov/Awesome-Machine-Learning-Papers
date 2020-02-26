@@ -34,6 +34,7 @@ I tried to put papers in each category in convenient to read order.
 * [Warm Up Cold-start Advertisements- Improving CTR Predictions via Learning to Learn ID Embeddings, 2019](https://github.com/ishugaepov/papers/blob/master/CTR%20CVR%20prediction/Warm%20Up%20Cold-start%20Advertisements-%20Improving%20CTR%20Predictions%20via%20Learning%20to%20Learn%20ID%20Embeddings.pdf)
 * [AiAds- Automated and Intelligent Advertising System for Sponsored Search, 2019](https://github.com/ishugaepov/papers/blob/master/CTR%20CVR%20prediction/AiAds-%20Automated%20and%20Intelligent%20Advertising%20System%20for%20Sponsored%20Search.pdf)
 * [RippleNet- Propagating User Preferences on the Knowledge Graph for Recommender Systems, 2018](https://github.com/ishugaepov/papers/blob/master/CTR%20CVR%20prediction/RippleNet-%20Propagating%20User%20Preferences%20on%20the%20Knowledge%20Graph%20for%20Recommender%20Systems%202.pdf)
+* [A Sparse Deep Factorization Machine for Efficient CTR prediction, 2020](https://github.com/ishugaepov/papers/blob/master/CTR%20CVR%20prediction/A%20Sparse%20Deep%20Factorization%20Machine%20for%20Efficient%20CTR%20prediction.pdf)
   
 </details>
 
