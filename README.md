@@ -152,6 +152,7 @@ I tried to put papers in each category in convenient to read order.
 <details>
   <summary>Papers</summary>
   
+* [BPR- Bayesian Personalized Ranking from Implicit Feedback, 2009](https://github.com/ishugaepov/papers/blob/master/Ranking/BPR-%20Bayesian%20Personalized%20Ranking%20from%20Implicit%20Feedback.pdf)
 * [Personalization of Web-search Using Short-term Browsing Context, 2013](https://github.com/ishugaepov/papers/blob/master/Ranking/Personalization%20of%20Web-search%20Using%20Short-term%20Browsing%20Context.pdf)
 
 </details>
