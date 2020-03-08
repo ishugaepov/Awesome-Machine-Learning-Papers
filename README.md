@@ -153,6 +153,7 @@ I tried to put papers in each category in convenient to read order.
   <summary>Papers</summary>
   
 * [BPR- Bayesian Personalized Ranking from Implicit Feedback, 2009](https://github.com/ishugaepov/papers/blob/master/Ranking/BPR-%20Bayesian%20Personalized%20Ranking%20from%20Implicit%20Feedback.pdf)
+* [WSABIE- Scaling Up To Large Vocabulary Image Annotation, 2011](https://github.com/ishugaepov/papers/blob/master/Ranking/WSABIE-%20Scaling%20Up%20To%20Large%20Vocabulary%20Image%20Annotation%20.pdf)
 * [Personalization of Web-search Using Short-term Browsing Context, 2013](https://github.com/ishugaepov/papers/blob/master/Ranking/Personalization%20of%20Web-search%20Using%20Short-term%20Browsing%20Context.pdf)
 
 </details>
