@@ -70,6 +70,7 @@ I tried to put papers in each category in convenient to read order.
 * [A Comprehensive Survey on Graph Neural Networks, 2019](https://github.com/ishugaepov/papers/blob/master/Embeddings/A%20Comprehensive%20Survey%20on%20Graph%20Neural%20Networks.pdf)
 * [Graph Convolutional Neural Networks for Web-Scale Recommender Systems, 2018](https://github.com/ishugaepov/papers/blob/master/Embeddings/Graph%20Convolutional%20Neural%20Networks%20for%20Web-Scale%20Recommender%20Systems.pdf)
 * [Keep It Simple- Graph Autoencoders Without Graph Convolutional Networks, 2019](https://github.com/ishugaepov/papers/blob/master/Embeddings/Keep%20It%20Simple-%20Graph%20Autoencoders%20Without%20Graph%20Convolutional%20Networks.pdf)
+* [StarSpace- Embed All The Things, 2018](https://github.com/ishugaepov/papers/blob/master/Embeddings/StarSpace-%20Embed%20All%20The%20Things.pdf)
 * [PyTorch BigGraph, 2019](https://github.com/ishugaepov/papers/blob/master/Embeddings/PyTorch%20BigGraph.pdf)
 
 </details>
