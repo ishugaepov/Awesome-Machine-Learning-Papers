@@ -83,6 +83,7 @@ I tried to put papers in each category in convenient to read order.
 * [The YouTube Video Recommendation System](https://github.com/ishugaepov/papers/blob/master/Session%20based%20Recommendations/The%20YouTube%20Video%20Recommendation%20System.pdf)
 * [E-commerce in Your Inbox- Product Recommendations at Scale](https://github.com/ishugaepov/papers/blob/master/Session%20based%20Recommendations/E-commerce%20in%20Your%20Inbox-%20Product%20Recommendations%20at%20Scale.pdf)
 * [Meta-Prod2Vec - Product Embeddings Using Side-Information for Recommendation](https://github.com/ishugaepov/papers/blob/master/Session%20based%20Recommendations/Meta-Prod2Vec%20-%20Product%20Embeddings%20Using%20Side-Information%20for%20Recommendation.pdf)
+* [Deep neural network marketplace recommenders in online experiments, 2018](https://github.com/ishugaepov/papers/blob/master/Embeddings/Deep%20neural%20network%20marketplace%20recommenders%20in%20online%20experiments.pdf)
 * [Word2vec applied to Recommendation- Hyperparameters Matter, 2018](https://github.com/ishugaepov/papers/blob/master/Session%20based%20Recommendations/Word2vec%20applied%20to%20Recommendation-%20Hyperparameters%20Matter.pdf)
 * [Session-based Recommendations with RNNs](https://github.com/ishugaepov/papers/blob/master/Session%20based%20Recommendations/SESSION-BASED%20RECOMMENDATIONS%20WITH%20RECURRENT%20NEURAL%20NETWORKS.pdf)
 * [Improved Recurrent Neural Networks for Session-based Recommendations](https://github.com/ishugaepov/papers/blob/master/Session%20based%20Recommendations/Improved%20Recurrent%20Neural%20Networks%20for%20Session-based%20Recommendations.pdf)
@@ -172,5 +173,6 @@ I tried to put papers in each category in convenient to read order.
 * [MonoForest framework for tree ensemble analysis, 2019](https://github.com/ishugaepov/papers/blob/master/Other/MonoForest%20framework%20for%20tree%20ensemble%20analysis.pdf)
 * [Intent-Based Browse Activity Segmentation, 2013](https://github.com/ishugaepov/papers/blob/master/Other/Intent-Based%20Browse%20Activity%20Segmentation.pdf)
 * [Robust De-anonymization of Large Sparse Datasets, 2008](https://github.com/ishugaepov/papers/blob/master/Other/Robust%20De-anonymization%20of%20Large%20Sparse%20Datasets.pdf)
+* [Siamese Neural Networks for One-shot Image Recognition, 2015](https://github.com/ishugaepov/papers/blob/master/Other/Siamese%20Neural%20Networks%20for%20One-shot%20Image%20Recognition.pdf)
 
 </details>
