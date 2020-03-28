@@ -136,6 +136,7 @@ I tried to put papers in each category in convenient to read order.
   <summary>Papers</summary>
 
 * [Evaluating the Replicability of Significance Tests for Comparing Learning Algorithms, 2004](https://github.com/ishugaepov/papers/blob/master/A:B%20Tests/Evaluating%20the%20Replicability%20of%20Significance%20Tests%20for%20Comparing%20Learning%20Algorithms.pdf)
+* [Statistical Comparisons of Classifiers over Multiple Data Sets, 2006](https://github.com/ishugaepov/papers/blob/master/A:B%20Tests/Statistical%20Comparisons%20of%20Classifiers%20over%20Multiple%20Data%20Sets.pdf)
 * [Power and Minumal Detectable Effect Notes](https://github.com/ishugaepov/papers/blob/master/A:B%20Tests/Power%20and%20MDE%20Notes.pdf)
 * [Controlled experiments on the web- survey and practical guide, 2009](https://github.com/ishugaepov/papers/blob/master/A:B%20Tests/Controlled%20experiments%20on%20the%20web-%20survey%20and%20practical%20guide.pdf)
 * [Overlapping Experiment Infrastructure- More, Better, Faster Experimentation, 2010](https://github.com/ishugaepov/papers/blob/master/A:B%20Tests/Overlapping%20Experiment%20Infrastructure-%20More%2C%20Better%2C%20Faster%20Experimentation.pdf)
