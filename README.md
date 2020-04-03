@@ -164,6 +164,14 @@ I tried to put papers in each category in convenient to read order.
 
 </details>
 
+## DNN Compression and Acceleration
+<details>
+  <summary>Papers</summary>
+  
+* [A Survey of Model Compression and Acceleration for Deep Neural Networks, 2019](https://github.com/ishugaepov/papers/blob/master/DNN%20Compression%20and%20Acceleration/A%20Survey%20of%20Model%20Compression%20and%20Acceleration%20for%20Deep%20Neural%20Networks.pdf)
+
+</details>
+
 ## Other
 <details>
   <summary>Papers</summary>
