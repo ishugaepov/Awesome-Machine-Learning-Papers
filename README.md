@@ -168,6 +168,7 @@ I tried to put papers in each category in convenient to read order.
 <details>
   <summary>Papers</summary>
   
+* [Distilling the Knowledge in a Neural Network, 2015](https://github.com/ishugaepov/papers/blob/master/DNN%20Compression%20and%20Acceleration/Distilling%20the%20Knowledge%20in%20a%20Neural%20Network.pdf)
 * [A Survey of Model Compression and Acceleration for Deep Neural Networks, 2019](https://github.com/ishugaepov/papers/blob/master/DNN%20Compression%20and%20Acceleration/A%20Survey%20of%20Model%20Compression%20and%20Acceleration%20for%20Deep%20Neural%20Networks.pdf)
 
 </details>
