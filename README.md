@@ -177,6 +177,33 @@ I tried to put papers in each category in convenient to read order.
 
 </details>
 
+## Nearest Neighbor Search
+<details>
+  <summary>Papers</summary>
+  
+#### Neighbourhood based methods
+
+* [Approximate nearest neighbor algorithm based on navigable, 2014](https://github.com/ishugaepov/papers/blob/master/Nearest%20Neighbor%20Search/Approximate%20nearest%20neighbor%20algorithm%20based%20on%20navigable%20(Information%20Systems).pdf)
+* [Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs](https://github.com/ishugaepov/papers/blob/master/Nearest%20Neighbor%20Search/Efficient%20and%20robust%20approximate%20nearest%20neighbor%20search%20using%20Hierarchical%20Navigable%20Small%20World%20graphs.pdf)
+
+#### Hashing based methods
+
+* [Mining Massive Datasets - Chapter 3](https://github.com/ishugaepov/papers/blob/master/Nearest%20Neighbor%20Search/Mining%20Massive%20Datasets%20-%20Chapter%203.pdf)
+* [Deep Hashing for Compact Binary Codes Learning, 2015](https://github.com/ishugaepov/papers/blob/master/Nearest%20Neighbor%20Search/Deep%20Hashing%20for%20Compact%20Binary%20Codes%20Learning.pdf)
+* [Deep Supervised Hashing for Fast Image Retrieval, 2016](https://github.com/ishugaepov/papers/blob/master/Nearest%20Neighbor%20Search/Deep%20Supervised%20Hashing%20for%20Fast%20Image%20Retrieval%20.pdf)
+  
+#### Space-partitioning based methods
+  
+* [Annoy](https://github.com/ishugaepov/papers/blob/master/Nearest%20Neighbor%20Search/Annoy.pdf)
+
+#### Surveys
+
+* [Survey of Nearest Neighbor Techniques, 2010](https://github.com/ishugaepov/papers/blob/master/Nearest%20Neighbor%20Search/Survey%20of%20Nearest%20Neighbor%20Techniques.pdf)
+* [Hashing for Similarity Search, 2014](https://github.com/ishugaepov/papers/blob/master/Nearest%20Neighbor%20Search/Hashing%20for%20Similarity%20Search:%20A%20Survey.pdf)
+* [Approximate Nearest Neighbor Search on High Dimensional Data, 2016](https://github.com/ishugaepov/papers/blob/master/Nearest%20Neighbor%20Search/Approximate%20Nearest%20Neighbor%20Search%20on%20High%20Dimensional%20Data.pdf)
+
+</details>
+
 ## Other
 <details>
   <summary>Papers</summary>
