@@ -7,6 +7,7 @@ I tried to put papers in each category in convenient to read order.
 <details>
   <summary>Papers</summary>
   
+* [Deep Character-Level Click-Through Rate Prediction for Sponsored Search, 2017](https://github.com/ishugaepov/papers/blob/master/CTR%20CVR%20prediction/Deep%20Character-Level%20Click-Through%20Rate%20Prediction%20for%20Sponsored%20Search.pdf)
 * [Field-aware Factorization Machines for CTR Prediction](https://github.com/ishugaepov/papers/blob/master/CTR%20CVR%20prediction/%5BFFM%5D%20Field-aware%20Factorization%20Machines%20for%20CTR%20Prediction%20(Criteo%202016).pdf)
 * [FFM in a Real-world Online Advertising System](https://github.com/ishugaepov/papers/blob/master/CTR%20CVR%20prediction/FFM%20in%20a%20Real-world%20Online%20Advertising%20System%202.pdf)
 * [Attentional Factorization Machines - Learning the Weight of Feature Interactions via Attention Networks](https://github.com/ishugaepov/papers/blob/master/CTR%20CVR%20prediction/%5BAFM%5D%20Attentional%20Factorization%20Machines%20-%20Learning%20the%20Weight%20of%20Feature%20Interactions%20via%20Attention%20Networks%20(ZJU%202017).pdf)
