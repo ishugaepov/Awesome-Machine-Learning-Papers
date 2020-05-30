@@ -100,6 +100,7 @@ I tried to put papers in each category in convenient to read order.
 * [Performance Comparison of Neural and Non-Neural Approaches to Session-based Recommendation, 2019](https://github.com/ishugaepov/papers/blob/master/Session%20based%20Recommendations/Performance%20Comparison%20of%20Neural%20and%20Non-Neural%20Approaches%20to%20Session-based%20Recommendation.pdf)
 * [Predictability Limits in Session-based Next Item Recommendation, 2019](https://github.com/ishugaepov/papers/blob/master/Session%20based%20Recommendations/Predictability%20Limits%20in%20Session-based%20Next%20Item%20Recommendation.pdf)
 * [BERT4Rec- Sequential Recommendation with Bidirectional Encoder Representations from Transformer, 2019](https://github.com/ishugaepov/papers/blob/master/Session%20based%20Recommendations/BERT4Rec-%20Sequential%20Recommendation%20with%20Bidirectional%20Encoder%20Representations%20from%20Transformer.pdf)
+* [Controllable Multi-Interest Framework for Recommendation, 2020](https://github.com/ishugaepov/papers/blob/master/Session%20based%20Recommendations/Controllable%20Multi-Interest%20Framework%20for%20Recommendation.pdf)
 
 </details>
 
