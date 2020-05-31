@@ -49,6 +49,7 @@ I tried to put papers in each category in convenient to read order.
 * [Word translation without parallel data, 2017](https://github.com/ishugaepov/papers/blob/master/Embeddings/Word%20translation%20without%20parallel%20data.pdf)
 * [Translating Embeddings for Modeling Multi-relational Data, 2013](https://github.com/ishugaepov/papers/blob/master/Embeddings/Translating%20Embeddings%20for%20Modeling%20Multi-relational%20Data.pdf)
 * [Knowledge graph embedding by translating on hyperplanes, 2014](https://github.com/ishugaepov/papers/blob/master/Embeddings/Knowledge%20Graph%20Embedding%20by%20Translating%20on%20Hyperplanes.pdf)
+* [Translation-based Recommendation, 2017](https://github.com/ishugaepov/papers/blob/master/Embeddings/Translation-based%20Recommendation.pdf)
 * [Item2Vec](https://github.com/ishugaepov/papers/blob/master/Embeddings/Item2Vec.pdf)
 * [Learning Item-Interaction Embeddings for User Recommendations, 2018](https://github.com/ishugaepov/papers/blob/master/Embeddings/Learning%20Item-Interaction%20Embeddings%20for%20User%20Recommendations.pdf)
 * [Neural Feature Embedding for User Response Prediction in Real-Time Bidding](https://github.com/ishugaepov/papers/blob/master/Embeddings/Neural%20Feature%20Embedding%20for%20User%20Response%20Prediction%20in%20Real-Time%20Bidding.pdf)
