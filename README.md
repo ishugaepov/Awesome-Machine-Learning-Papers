@@ -134,6 +134,7 @@ I tried to put papers in each category in convenient to read order.
 * [MF/ATRank- An Attention-Based User Behavior Modeling Framework for Recommendation, 2017](https://github.com/ishugaepov/papers/blob/master/MF/ATRank-%20An%20Attention-Based%20User%20Behavior%20Modeling%20Framework%20for%20Recommendation.pdf)
 * [DKN- Deep Knowledge-Aware Network for News Recommendation, 2018](https://github.com/ishugaepov/papers/blob/master/MF/DKN-%20Deep%20Knowledge-Aware%20Network%20for%20News%20Recommendation.pdf)
 * [Graph Convolutional Matrix Completion, 2018](https://github.com/ishugaepov/papers/blob/master/MF/Graph%20Convolutional%20Matrix%20Completion.pdf)
+* [Variational Autoencoders for Collaborative Filtering](https://github.com/ishugaepov/papers/blob/master/MF/Variational%20Autoencoders%20for%20Collaborative%20Filtering.pdf)
 
 </details>
 
