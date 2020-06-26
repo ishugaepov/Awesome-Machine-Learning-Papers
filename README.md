@@ -211,6 +211,17 @@ I tried to put papers in each category in convenient to read order.
 
 </details>
 
+## Surveys
+<details>
+  <summary>Papers</summary>
+  
+* [A Survey on Transfer Learning](https://github.com/ishugaepov/papers/blob/master/Surveys/A%20Survey%20on%20Transfer%20Learning.pdf)
+* [Deep Metric Learning, 2019](https://github.com/ishugaepov/papers/blob/master/Surveys/Deep%20Metric%20Learning-%20A%20Survey.pdf)
+* [Generalizing from a Few Examples- A Survey on Few-Shot Learning, 2020](https://github.com/ishugaepov/papers/blob/master/Surveys/Generalizing%20from%20a%20Few%20Examples-%20A%20Survey%20on%20Few-Shot%20Learning.pdf)
+* [Learning From Positive and Unlabeled Data- A Survey, 2020](https://github.com/ishugaepov/papers/blob/master/Surveys/Learning%20From%20Positive%20and%20Unlabeled%20Data-%20A%20Survey.pdf)
+
+</details>
+
 ## Other
 <details>
   <summary>Papers</summary>
