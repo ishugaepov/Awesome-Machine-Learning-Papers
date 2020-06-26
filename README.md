@@ -234,6 +234,7 @@ I tried to put papers in each category in convenient to read order.
 * [Intent-Based Browse Activity Segmentation, 2013](https://github.com/ishugaepov/papers/blob/master/Other/Intent-Based%20Browse%20Activity%20Segmentation.pdf)
 * [Robust De-anonymization of Large Sparse Datasets, 2008](https://github.com/ishugaepov/papers/blob/master/Other/Robust%20De-anonymization%20of%20Large%20Sparse%20Datasets.pdf)
 * [Siamese Neural Networks for One-shot Image Recognition, 2015](https://github.com/ishugaepov/papers/blob/master/Other/Siamese%20Neural%20Networks%20for%20One-shot%20Image%20Recognition.pdf)
+* [Deep Metric Learning Using Triplet Network, 2015](https://github.com/ishugaepov/papers/blob/master/Other/DEEP%20METRIC%20LEARNING%20USING%20TRIPLET%20NETWORK.pdf)
 * [Ten Simple Rules for Reproducible Research in Jupyter Notebooks, 2018](https://github.com/ishugaepov/papers/blob/master/Other/Ten%20Simple%20Rules%20for%20Reproducible%20Research%20in%20Jupyter%20Notebooks.pdf)
 * [Finding Users Who Act Alike- Transfer Learning for Expanding Advertiser Audiences, 2019](https://github.com/ishugaepov/papers/blob/master/Other/Finding%20Users%20Who%20Act%20Alike-%20Transfer%20Learning%20for%20Expanding%20Advertiser%20Audiences.pdf)
 
