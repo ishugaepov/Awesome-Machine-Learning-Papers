@@ -77,6 +77,7 @@ I tried to put papers in each category in convenient to read order.
 * [Keep It Simple- Graph Autoencoders Without Graph Convolutional Networks, 2019](https://github.com/ishugaepov/papers/blob/master/Embeddings/Keep%20It%20Simple-%20Graph%20Autoencoders%20Without%20Graph%20Convolutional%20Networks.pdf)
 * [StarSpace- Embed All The Things, 2018](https://github.com/ishugaepov/papers/blob/master/Embeddings/StarSpace-%20Embed%20All%20The%20Things.pdf)
 * [PyTorch BigGraph, 2019](https://github.com/ishugaepov/papers/blob/master/Embeddings/PyTorch%20BigGraph.pdf)
+* [DynGEM- Deep Embedding Method for Dynamic Graphs, 2018](https://github.com/ishugaepov/papers/blob/master/Embeddings/DynGEM-%20Deep%20Embedding%20Method%20for%20Dynamic%20Graphs.pdf)
 
 </details>
 
