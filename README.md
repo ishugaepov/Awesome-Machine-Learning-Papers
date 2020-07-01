@@ -239,5 +239,6 @@ I tried to put papers in each category in convenient to read order.
 * [Deep Metric Learning Using Triplet Network, 2015](https://github.com/ishugaepov/papers/blob/master/Other/DEEP%20METRIC%20LEARNING%20USING%20TRIPLET%20NETWORK.pdf)
 * [Ten Simple Rules for Reproducible Research in Jupyter Notebooks, 2018](https://github.com/ishugaepov/papers/blob/master/Other/Ten%20Simple%20Rules%20for%20Reproducible%20Research%20in%20Jupyter%20Notebooks.pdf)
 * [Finding Users Who Act Alike- Transfer Learning for Expanding Advertiser Audiences, 2019](https://github.com/ishugaepov/papers/blob/master/Other/Finding%20Users%20Who%20Act%20Alike-%20Transfer%20Learning%20for%20Expanding%20Advertiser%20Audiences.pdf)
+* [Applying Deep Learning To Airbnb Search, 2018](https://github.com/ishugaepov/papers/blob/master/Other/Applying%20Deep%20Learning%20To%20Airbnb%20Search%20.pdf)
 
 </details>
