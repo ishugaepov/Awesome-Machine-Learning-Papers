@@ -160,6 +160,7 @@ I tried to put papers in each category in convenient to read order.
 * [Machine Learning Methods for Estimating Heterogeneous Causal Effects, 2015](https://github.com/ishugaepov/papers/blob/master/A:B%20Tests/Machine%20Learning%20Methods%20for%20Estimating%20Heterogeneous%20Causal%20Effects.pdf)
 * [Recursive partitioning for heterogeneous causal effects, 2016](https://github.com/ishugaepov/papers/blob/master/A:B%20Tests/Recursive%20partitioning%20for%20heterogeneous%20causal%20effects.pdf)
 * [Meta-learners for Estimating Heterogeneous Treatment Effects using Machine Learning, 2019](https://github.com/ishugaepov/papers/blob/master/A:B%20Tests/Meta-learners%20for%20Estimating%20Heterogeneous%20Treatment%20Effects%20using%20Machine%20Learning%202.pdf)
+* [Three Key Checklists and Remedies for Trustworthy Analysis of Online Controlled Experiments at Scale, 2019](https://github.com/ishugaepov/papers/blob/master/A:B%20Tests/Three%20Key%20Checklists%20and%20Remedies%20for%20Trustworthy%20Analysis%20of%20Online%20Controlled%20Experiments%20at%20Scale.pdf)
 
 </details>
 
