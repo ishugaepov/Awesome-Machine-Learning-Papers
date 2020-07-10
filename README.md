@@ -79,6 +79,7 @@ I tried to put papers in each category in convenient to read order.
 * [PyTorch BigGraph, 2019](https://github.com/ishugaepov/papers/blob/master/Embeddings/PyTorch%20BigGraph.pdf)
 * [DynGEM- Deep Embedding Method for Dynamic Graphs, 2018](https://github.com/ishugaepov/papers/blob/master/Embeddings/DynGEM-%20Deep%20Embedding%20Method%20for%20Dynamic%20Graphs.pdf)
 * [Embedding-based Retrieval in Facebook Search, 2020](https://github.com/ishugaepov/papers/blob/master/Embeddings/Embedding-based%20Retrieval%20in%20Facebook%20Search.pdf)
+* [General-Purpose User Embeddings based on Mobile App Usage, 2020](https://github.com/ishugaepov/papers/blob/master/Embeddings/General-Purpose%20User%20Embeddings%20based%20on%20Mobile%20App%20Usage.pdf)
 
 </details>
 
