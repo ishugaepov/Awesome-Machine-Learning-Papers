@@ -138,6 +138,7 @@ I tried to put papers in each category in convenient to read order.
 * [DKN- Deep Knowledge-Aware Network for News Recommendation, 2018](https://github.com/ishugaepov/papers/blob/master/MF/DKN-%20Deep%20Knowledge-Aware%20Network%20for%20News%20Recommendation.pdf)
 * [Graph Convolutional Matrix Completion, 2018](https://github.com/ishugaepov/papers/blob/master/MF/Graph%20Convolutional%20Matrix%20Completion.pdf)
 * [Variational Autoencoders for Collaborative Filtering](https://github.com/ishugaepov/papers/blob/master/MF/Variational%20Autoencoders%20for%20Collaborative%20Filtering.pdf)
+* [PinnerSage- Multi-Modal User Embedding Framework for Recommendations at Pinterest, 2020](https://github.com/ishugaepov/papers/blob/master/MF/PinnerSage-%20Multi-Modal%20User%20Embedding%20Framework%20for%20Recommendations%20at%20Pinterest.pdf)
 
 </details>
 
