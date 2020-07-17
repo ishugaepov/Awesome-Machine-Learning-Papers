@@ -245,6 +245,7 @@ I tried to put papers in each category in convenient to read order.
 * [Applying Deep Learning To Airbnb Search, 2018](https://github.com/ishugaepov/papers/blob/master/Other/Applying%20Deep%20Learning%20To%20Airbnb%20Search%20.pdf)
 * [Improving Deep Learning For Airbnb Search, 2020](https://github.com/ishugaepov/papers/blob/master/Other/Improving%20Deep%20Learning%20For%20Airbnb%20Search%20.pdf)
 * [Improving Recommendation Quality in Google Drive, 2020](https://github.com/ishugaepov/papers/blob/master/Other/Improving%20Recommendation%20Quality%20in%20Google%20Drive.pdf)
+* [Initializing Bayesian Hyperparameter Optimization via Meta-Learning, 2015](https://github.com/ishugaepov/papers/blob/master/Other/Initializing%20Bayesian%20Hyperparameter%20Optimization%20via%20Meta-Learning%20.pdf)
 * [Auto-Sklearn 2.0- The Next Generation, 2020](https://github.com/ishugaepov/papers/blob/master/Other/Auto-Sklearn%202.0-%20The%20Next%20Generation.pdf)
 
 </details>
