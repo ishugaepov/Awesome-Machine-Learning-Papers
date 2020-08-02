@@ -248,6 +248,7 @@ I tried to put papers in each category in convenient to read order.
 * [Improving Recommendation Quality in Google Drive, 2020](https://github.com/ishugaepov/papers/blob/master/Other/Improving%20Recommendation%20Quality%20in%20Google%20Drive.pdf)
 * [Initializing Bayesian Hyperparameter Optimization via Meta-Learning, 2015](https://github.com/ishugaepov/papers/blob/master/Other/Initializing%20Bayesian%20Hyperparameter%20Optimization%20via%20Meta-Learning%20.pdf)
 * [Auto-Sklearn 2.0- The Next Generation, 2020](https://github.com/ishugaepov/papers/blob/master/Other/Auto-Sklearn%202.0-%20The%20Next%20Generation.pdf)
+* [Optuna- A Next-generation Hyperparameter Optimization Framework, 2019](https://github.com/ishugaepov/papers/blob/master/Other/Optuna-%20A%20Next-generation%20Hyperparameter%20Optimization%20Framework.pdf)
 * [MLOps: Continuous delivery and automation pipelines in machine learning, 2020](https://github.com/ishugaepov/papers/blob/master/Other/MLOps:%20Continuous%20delivery%20and%20automation%20pipelines%20in%20machine%20learning.pdf)
 
 </details>
