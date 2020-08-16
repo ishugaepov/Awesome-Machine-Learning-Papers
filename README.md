@@ -45,6 +45,7 @@ I tried to put papers in each category in convenient to read order.
 <details>
   <summary>Papers</summary>
   
+* [A Structured Self-Attentive Sentence Embedding, 2017](https://github.com/ishugaepov/papers/blob/master/Embeddings/A%20Structured%20Self-Attentive%20Sentence%20Embedding.pdf)
 * [Exploiting Similarities among Languages for Machine Translation, 2013](https://arxiv.org/pdf/1309.4168.pdf)
 * [Word translation without parallel data, 2017](https://github.com/ishugaepov/papers/blob/master/Embeddings/Word%20translation%20without%20parallel%20data.pdf)
 * [Translating Embeddings for Modeling Multi-relational Data, 2013](https://github.com/ishugaepov/papers/blob/master/Embeddings/Translating%20Embeddings%20for%20Modeling%20Multi-relational%20Data.pdf)
