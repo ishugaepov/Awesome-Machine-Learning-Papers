@@ -74,6 +74,7 @@ I tried to put papers in each category in convenient to read order.
 * [Should we Embed?, 2019](https://github.com/ishugaepov/papers/blob/master/Embeddings/Should%20we%20Embed%3F.pdf)
 * [Beyond Vector Spaces- Compact Data Representation as Differentiable Weighted Graphs, 2019](https://github.com/ishugaepov/papers/blob/master/Embeddings/Beyond%20Vector%20Spaces-%20Compact%20Data%20Representation%20as%20Differentiable%20Weighted%20Graphs.pdf)
 * [A Comprehensive Survey on Graph Neural Networks, 2019](https://github.com/ishugaepov/papers/blob/master/Embeddings/A%20Comprehensive%20Survey%20on%20Graph%20Neural%20Networks.pdf)
+* [Inductive Representation Learning on Large Graphs, 2017](https://github.com/ishugaepov/papers/blob/master/MF/Inductive%20Representation%20Learning%20on%20Large%20Graphs.pdf)
 * [Graph Convolutional Neural Networks for Web-Scale Recommender Systems, 2018](https://github.com/ishugaepov/papers/blob/master/Embeddings/Graph%20Convolutional%20Neural%20Networks%20for%20Web-Scale%20Recommender%20Systems.pdf)
 * [Keep It Simple- Graph Autoencoders Without Graph Convolutional Networks, 2019](https://github.com/ishugaepov/papers/blob/master/Embeddings/Keep%20It%20Simple-%20Graph%20Autoencoders%20Without%20Graph%20Convolutional%20Networks.pdf)
 * [StarSpace- Embed All The Things, 2018](https://github.com/ishugaepov/papers/blob/master/Embeddings/StarSpace-%20Embed%20All%20The%20Things.pdf)
