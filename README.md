@@ -39,6 +39,7 @@ I tried to put papers in each category in convenient to read order.
 * [Neural Oblivious Decision Ensembles for Deep Learning on Tabular Data, 2020](https://github.com/ishugaepov/papers/blob/master/CTR%20CVR%20prediction/neural_oblivious_decision_ensembles_for_deep_learning_on_tabular_data.pdf)
 * [Click-Through Rate Prediction with the User Memory Network, 2019](https://github.com/ishugaepov/papers/blob/master/CTR%20CVR%20prediction/Click-Through%20Rate%20Prediction%20with%20the%20User%20Memory%20Network.pdf)
 * [Predicting conversions in display advertising based on URL embeddings, 2020](https://github.com/ishugaepov/papers/blob/master/CTR%20CVR%20prediction/Predicting%20conversions%20in%20display%20advertising%20based%20on%20URL%20embeddings.pdf)
+* [On the Effectiveness of Self-supervised Pre-training for Modeling User Behavior Sequences, 2020](https://github.com/ishugaepov/papers/blob/master/CTR%20CVR%20prediction/On%20the%20Effectiveness%20of%20Self-supervised%20Pre-training%20for%20Modeling%20User%20Behavior%20Sequences.pdf)
   
 </details>
 
