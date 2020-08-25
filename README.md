@@ -38,6 +38,7 @@ I tried to put papers in each category in convenient to read order.
 * [A Sparse Deep Factorization Machine for Efficient CTR prediction, 2020](https://github.com/ishugaepov/papers/blob/master/CTR%20CVR%20prediction/A%20Sparse%20Deep%20Factorization%20Machine%20for%20Efficient%20CTR%20prediction.pdf)
 * [Neural Oblivious Decision Ensembles for Deep Learning on Tabular Data, 2020](https://github.com/ishugaepov/papers/blob/master/CTR%20CVR%20prediction/neural_oblivious_decision_ensembles_for_deep_learning_on_tabular_data.pdf)
 * [Click-Through Rate Prediction with the User Memory Network, 2019](https://github.com/ishugaepov/papers/blob/master/CTR%20CVR%20prediction/Click-Through%20Rate%20Prediction%20with%20the%20User%20Memory%20Network.pdf)
+* [Predicting conversions in display advertising based on URL embeddings, 2020](https://github.com/ishugaepov/papers/blob/master/CTR%20CVR%20prediction/Predicting%20conversions%20in%20display%20advertising%20based%20on%20URL%20embeddings.pdf)
   
 </details>
 
