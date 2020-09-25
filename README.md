@@ -255,5 +255,6 @@ I tried to put papers in each category in convenient to read order.
 * [Auto-Sklearn 2.0- The Next Generation, 2020](https://github.com/ishugaepov/papers/blob/master/Other/Auto-Sklearn%202.0-%20The%20Next%20Generation.pdf)
 * [Optuna- A Next-generation Hyperparameter Optimization Framework, 2019](https://github.com/ishugaepov/papers/blob/master/Other/Optuna-%20A%20Next-generation%20Hyperparameter%20Optimization%20Framework.pdf)
 * [MLOps: Continuous delivery and automation pipelines in machine learning, 2020](https://github.com/ishugaepov/papers/blob/master/Other/MLOps:%20Continuous%20delivery%20and%20automation%20pipelines%20in%20machine%20learning.pdf)
+* [COLD- Towards the Next Generation of Pre-Ranking System, 2020](https://github.com/ishugaepov/papers/blob/master/Other/COLD-%20Towards%20the%20Next%20Generation%20of%20Pre-Ranking%20System.pdf)
 
 </details>
