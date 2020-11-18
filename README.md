@@ -220,7 +220,6 @@ I tried to put papers in each category in convenient to read order.
 * [Survey of Nearest Neighbor Techniques, 2010](https://github.com/ishugaepov/papers/blob/master/Nearest%20Neighbor%20Search/Survey%20of%20Nearest%20Neighbor%20Techniques.pdf)
 * [Hashing for Similarity Search, 2014](https://github.com/ishugaepov/papers/blob/master/Nearest%20Neighbor%20Search/Hashing%20for%20Similarity%20Search:%20A%20Survey.pdf)
 * [Approximate Nearest Neighbor Search on High Dimensional Data, 2016](https://github.com/ishugaepov/papers/blob/master/Nearest%20Neighbor%20Search/Approximate%20Nearest%20Neighbor%20Search%20on%20High%20Dimensional%20Data.pdf)
-* [A Review of Keyphrase Extraction, 2019](https://github.com/ishugaepov/papers/blob/master/Surveys/A%20Review%20of%20Keyphrase%20Extraction.pdf)
 
 </details>
 
@@ -232,6 +231,7 @@ I tried to put papers in each category in convenient to read order.
 * [Deep Metric Learning, 2019](https://github.com/ishugaepov/papers/blob/master/Surveys/Deep%20Metric%20Learning-%20A%20Survey.pdf)
 * [Generalizing from a Few Examples- A Survey on Few-Shot Learning, 2020](https://github.com/ishugaepov/papers/blob/master/Surveys/Generalizing%20from%20a%20Few%20Examples-%20A%20Survey%20on%20Few-Shot%20Learning.pdf)
 * [Learning From Positive and Unlabeled Data- A Survey, 2020](https://github.com/ishugaepov/papers/blob/master/Surveys/Learning%20From%20Positive%20and%20Unlabeled%20Data-%20A%20Survey.pdf)
+* [A Review of Keyphrase Extraction, 2019](https://github.com/ishugaepov/papers/blob/master/Surveys/A%20Review%20of%20Keyphrase%20Extraction.pdf)
 
 </details>
 
