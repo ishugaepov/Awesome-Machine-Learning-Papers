@@ -147,6 +147,7 @@ I tried to put papers in each category in convenient to read order.
 * [Variational Autoencoders for Collaborative Filtering](https://github.com/ishugaepov/papers/blob/master/MF/Variational%20Autoencoders%20for%20Collaborative%20Filtering.pdf)
 * [PinnerSage- Multi-Modal User Embedding Framework for Recommendations at Pinterest, 2020](https://github.com/ishugaepov/papers/blob/master/MF/PinnerSage-%20Multi-Modal%20User%20Embedding%20Framework%20for%20Recommendations%20at%20Pinterest.pdf)
 * [SimClusters- Community-Based Representations for Heterogeneous Recommendations at Twitter, 2020](https://github.com/ishugaepov/papers/blob/master/MF/SimClusters-%20Community-Based%20Representations%20for%20Heterogeneous%20Recommendations%20at%20Twitter.pdf)
+* [Predicting Twitter Engagement With Deep Language Models, 2020](https://github.com/ishugaepov/papers/blob/master/MF/Predicting%20Twitter%20Engagement%20With%20Deep%20Language%20Models.pdfhttps://github.com/ishugaepov/papers/blob/master/MF/Predicting%20Twitter%20Engagement%20With%20Deep%20Language%20Models.pdf)
 
 </details>
 
