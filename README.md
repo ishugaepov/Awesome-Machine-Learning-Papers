@@ -248,6 +248,7 @@ I tried to put papers in each category in convenient to read order.
 
 #### Supervised
 * [A Deep Relevance Matching Model for Ad-hoc Retrieval, 2017](https://github.com/ishugaepov/papers/blob/master/Keywords%20Extraction/A%20Deep%20Relevance%20Matching%20Model%20for%20Ad-hoc%20Retrieval.pdf)
+* [Deep Keyphrase Generation, 2018](https://github.com/ishugaepov/papers/blob/master/Keywords%20Extraction/Deep%20Keyphrase%20Generation.pdf)
 
 </details>
 
