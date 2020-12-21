@@ -233,7 +233,21 @@ I tried to put papers in each category in convenient to read order.
 * [Deep Metric Learning, 2019](https://github.com/ishugaepov/papers/blob/master/Surveys/Deep%20Metric%20Learning-%20A%20Survey.pdf)
 * [Generalizing from a Few Examples- A Survey on Few-Shot Learning, 2020](https://github.com/ishugaepov/papers/blob/master/Surveys/Generalizing%20from%20a%20Few%20Examples-%20A%20Survey%20on%20Few-Shot%20Learning.pdf)
 * [Learning From Positive and Unlabeled Data- A Survey, 2020](https://github.com/ishugaepov/papers/blob/master/Surveys/Learning%20From%20Positive%20and%20Unlabeled%20Data-%20A%20Survey.pdf)
+
+</details>
+
+## Keywords Extraction
+<details>
+  <summary>Papers</summary>
+  
+#### Surveys
 * [A Review of Keyphrase Extraction, 2019](https://github.com/ishugaepov/papers/blob/master/Surveys/A%20Review%20of%20Keyphrase%20Extraction.pdf)
+  
+#### Unsupervised
+* [Simple Unsupervised Keyphrase Extraction using Sentence Embeddings, 2018](https://github.com/ishugaepov/papers/blob/master/Keywords%20Extraction/Simple%20Unsupervised%20Keyphrase%20Extraction%20using%20Sentence%20Embeddings.pdf)
+
+#### Supervised
+* [A Deep Relevance Matching Model for Ad-hoc Retrieval, 2017](https://github.com/ishugaepov/papers/blob/master/Keywords%20Extraction/A%20Deep%20Relevance%20Matching%20Model%20for%20Ad-hoc%20Retrieval.pdf)
 
 </details>
 
