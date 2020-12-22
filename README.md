@@ -245,6 +245,7 @@ I tried to put papers in each category in convenient to read order.
   
 #### Unsupervised
 * [Simple Unsupervised Keyphrase Extraction using Sentence Embeddings, 2018](https://github.com/ishugaepov/papers/blob/master/Keywords%20Extraction/Simple%20Unsupervised%20Keyphrase%20Extraction%20using%20Sentence%20Embeddings.pdf)
+* [Unsupervised Keyphrase Extraction with Multipartite Graphs, 2018](https://github.com/ishugaepov/papers/blob/master/Keywords%20Extraction/Unsupervised%20Keyphrase%20Extraction%20with%20Multipartite%20Graphs.pdf)
 
 #### Supervised
 * [A Deep Relevance Matching Model for Ad-hoc Retrieval, 2017](https://github.com/ishugaepov/papers/blob/master/Keywords%20Extraction/A%20Deep%20Relevance%20Matching%20Model%20for%20Ad-hoc%20Retrieval.pdf)
