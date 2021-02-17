@@ -87,6 +87,7 @@ I tried to put papers in each category in convenient to read order.
 * [PinText- A Multitask Text Embedding System in Pinterest, 2019](https://github.com/ishugaepov/papers/blob/master/Embeddings/PinText-%20A%20Multitask%20Text%20Embedding%20System%20in%20Pinterest.pdf)
 * [Graph-RISE- Graph-Regularized Image Semantic Embedding, 2019](https://github.com/ishugaepov/papers/blob/master/Embeddings/Graph-RISE-%20Graph-Regularized%20Image%20Semantic%20Embedding%20.pdf)
 * [SimCLR - A Simple Framework for Contrastive Learning of Visual Representations, 2020](https://github.com/ishugaepov/papers/blob/master/Embeddings/SimCLR%20-%20A%20Simple%20Framework%20for%20Contrastive%20Learning%20of%20Visual%20Representations.pdf)
+* [Cleora: A Simple, Strong and Scalable Graph Embedding Scheme, 2021](https://github.com/ishugaepov/papers/blob/master/Embeddings/Cleora:%20A%20Simple%2C%20Strong%20and%20Scalable%20Graph%20Embedding%20Scheme.pdf)
 
 </details>
 
