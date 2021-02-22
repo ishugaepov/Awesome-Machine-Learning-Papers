@@ -184,6 +184,7 @@ I tried to put papers in each category in convenient to read order.
 * [WSABIE- Scaling Up To Large Vocabulary Image Annotation, 2011](https://github.com/ishugaepov/papers/blob/master/Ranking/WSABIE-%20Scaling%20Up%20To%20Large%20Vocabulary%20Image%20Annotation%20.pdf)
 * [Personalization of Web-search Using Short-term Browsing Context, 2013](https://github.com/ishugaepov/papers/blob/master/Ranking/Personalization%20of%20Web-search%20Using%20Short-term%20Browsing%20Context.pdf)
 * [Neural Ranking Models with Weak Supervision, 2017](https://github.com/ishugaepov/papers/blob/master/Ranking/Neural%20Ranking%20Models%20with%20Weak%20Supervision.pdf)
+* [Deeper Text Understanding for IR with Contextual Neural Language Modeling, 2019](https://github.com/ishugaepov/papers/blob/master/Ranking/Deeper%20Text%20Understanding%20for%20IR%20with%20Contextual%20Neural%20Language%20Modeling.pdf)
 * [Are Neural Rankers Still Outperformed By GBDT?, 2021](https://github.com/ishugaepov/papers/blob/master/Ranking/ARE%20NEURAL%20RANKERS%20STILL%20OUTPERFORMED%20BY%20GRADIENT%20BOOSTED%20DECISION%20TREES.pdf)
 
 </details>
