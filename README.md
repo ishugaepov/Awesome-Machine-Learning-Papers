@@ -186,6 +186,7 @@ I tried to put papers in each category in convenient to read order.
 * [Neural Ranking Models with Weak Supervision, 2017](https://github.com/ishugaepov/papers/blob/master/Ranking/Neural%20Ranking%20Models%20with%20Weak%20Supervision.pdf)
 * [Deeper Text Understanding for IR with Contextual Neural Language Modeling, 2019](https://github.com/ishugaepov/papers/blob/master/Ranking/Deeper%20Text%20Understanding%20for%20IR%20with%20Contextual%20Neural%20Language%20Modeling.pdf)
 * [CEDR- Contextualized Embeddings for Document Ranking, 2019](https://github.com/ishugaepov/papers/blob/master/Ranking/CEDR-%20Contextualized%20Embeddings%20for%20Document%20Ranking.pdf)
+* [TwinBERT- Distilling Knowledge to Twin-Structured BERT Models for Efficient Retrieval, 2020](https://github.com/ishugaepov/papers/blob/master/Ranking/TwinBERT-%20Distilling%20Knowledge%20to%20Twin-Structured%20BERT%20Models%20for%20Efficient%20Retrieval.pdf)
 * [Are Neural Rankers Still Outperformed By GBDT?, 2021](https://github.com/ishugaepov/papers/blob/master/Ranking/ARE%20NEURAL%20RANKERS%20STILL%20OUTPERFORMED%20BY%20GRADIENT%20BOOSTED%20DECISION%20TREES.pdf)
 
 </details>
