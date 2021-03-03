@@ -1,4 +1,4 @@
-# papers
+# Awesome-Machine-Learning-Papers
 In order to see my remarks and notes download pdf file instead of viewing it on GitHub.
 
 I tried to put papers in each category in convenient to read order.
