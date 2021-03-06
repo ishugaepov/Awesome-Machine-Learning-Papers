@@ -114,6 +114,7 @@ I tried to put papers in each category in convenient to read order.
 * [Predictability Limits in Session-based Next Item Recommendation, 2019](https://github.com/ishugaepov/papers/blob/master/Session%20based%20Recommendations/Predictability%20Limits%20in%20Session-based%20Next%20Item%20Recommendation.pdf)
 * [BERT4Rec- Sequential Recommendation with Bidirectional Encoder Representations from Transformer, 2019](https://github.com/ishugaepov/papers/blob/master/Session%20based%20Recommendations/BERT4Rec-%20Sequential%20Recommendation%20with%20Bidirectional%20Encoder%20Representations%20from%20Transformer.pdf)
 * [Controllable Multi-Interest Framework for Recommendation, 2020](https://github.com/ishugaepov/papers/blob/master/Session%20based%20Recommendations/Controllable%20Multi-Interest%20Framework%20for%20Recommendation.pdf)
+* [Contrastive Pre-training for Sequential Recommendation, 2021](https://github.com/ishugaepov/Awesome-Machine-Learning-Papers/blob/master/Session%20based%20Recommendations/Contrastive%20Pre-training%20for%20Sequential%20Recommendation.pdf)
 
 </details>
 
