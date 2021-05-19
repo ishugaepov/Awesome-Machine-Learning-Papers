@@ -152,6 +152,7 @@ I tried to put papers in each category in convenient to read order.
 * [PinnerSage- Multi-Modal User Embedding Framework for Recommendations at Pinterest, 2020](https://github.com/ishugaepov/papers/blob/master/MF/PinnerSage-%20Multi-Modal%20User%20Embedding%20Framework%20for%20Recommendations%20at%20Pinterest.pdf)
 * [SimClusters- Community-Based Representations for Heterogeneous Recommendations at Twitter, 2020](https://github.com/ishugaepov/papers/blob/master/MF/SimClusters-%20Community-Based%20Representations%20for%20Heterogeneous%20Recommendations%20at%20Twitter.pdf)
 * [Predicting Twitter Engagement With Deep Language Models, 2020](https://github.com/ishugaepov/papers/blob/master/MF/Predicting%20Twitter%20Engagement%20With%20Deep%20Language%20Models.pdfhttps://github.com/ishugaepov/papers/blob/master/MF/Predicting%20Twitter%20Engagement%20With%20Deep%20Language%20Models.pdf)
+* [Where To Next? A Dynamic Model of User Preferences, 2021](https://github.com/ishugaepov/Awesome-Machine-Learning-Papers/blob/master/MF/Where%20To%20Next%20-%20A%20Dynamic%20Model%20of%20User%20Preferences.pdf)
 
 </details>
 
