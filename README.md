@@ -297,6 +297,7 @@ I tried to put papers in each category in convenient to read order.
 * [COLD- Towards the Next Generation of Pre-Ranking System, 2020](https://github.com/ishugaepov/papers/blob/master/Other/COLD-%20Towards%20the%20Next%20Generation%20of%20Pre-Ranking%20System.pdf)
 * [Learning to Create Better Ads- Generation and Ranking Approaches for Ad Creative Refinement, 2020](https://github.com/ishugaepov/papers/blob/master/Other/Learning%20to%20Create%20Better%20Ads-%20Generation%20and%20Ranking%20Approaches%20for%20Ad%20Creative%20Refinement.pdf)
 * [Query2Interest Classification at Pinterest, 2020](https://github.com/ishugaepov/papers/blob/master/Other/Query2Interest%20Classification%20at%20Pinterest.pdf)
+* [Deep Clustering for Unsupervised Learning of Visual Features, 2019](https://github.com/ishugaepov/Awesome-Machine-Learning-Papers/blob/master/Other/Deep%20Clustering%20for%20Unsupervised%20Learning%20of%20Visual%20Features.pdf)
 * [SCAN- Learning to Classify Images without Labels, 2020](https://github.com/ishugaepov/Awesome-Machine-Learning-Papers/blob/master/Other/SCAN-%20Learning%20to%20Classify%20Images%20without%20Labels.pdf)
 
 </details>
